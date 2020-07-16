@@ -1,0 +1,1853 @@
+STATEFP,COUNTYFP,COUNTYNS,GEOID,NAME,NAMELSAD,States,Trump,Biden,Ratio
+31,109,00835876,31109,Lancaster,Lancaster County,Nebraska,"7,300","20,798",2.8490
+46,099,01265772,46099,Minnehaha,Minnehaha County,South Dakota,"14,420","9,000",0.6241
+06,091,00277310,06091,Sierra,Sierra County,California,0,500,100.0000
+39,063,01074044,39063,Hancock,Hancock County,Ohio,500,0,0.0000
+48,189,01383880,48189,Hale,Hale County,Texas,500,0,0.0000
+39,003,01074015,39003,Allen,Allen County,Ohio,0,"3,200",100.0000
+55,111,01581115,55111,Sauk,Sauk County,Wisconsin,"1,750","7,100",4.0571
+41,063,01155135,41063,Wallowa,Wallowa County,Oregon,0,500,100.0000
+42,007,01214112,42007,Beaver,Beaver County,Pennsylvania,"1,000","2,500",2.5000
+29,083,00758496,29083,Henry,Henry County,Missouri,"2,000",0,0.0000
+37,037,01008544,37037,Chatham,Chatham County,North Carolina,"8,500","64,248",7.5586
+39,085,01074055,39085,Lake,Lake County,Ohio,"7,000","2,500",0.3571
+51,121,01674630,51121,Montgomery,Montgomery County,Virginia,"2,000","13,600",6.8000
+47,065,01639749,47065,Hamilton,Hamilton County,Tennessee,"17,800","45,400",2.5506
+35,035,00929104,35035,Otero,Otero County,New Mexico,500,"1,300",2.6000
+56,023,01605076,56023,Lincoln,Lincoln County,Wyoming,"2,400",0,0.0000
+54,075,01550044,54075,Pocahontas,Pocahontas County,West Virginia,0,"1,500",100.0000
+48,077,01383824,48077,Clay,Clay County,Texas,500,0,0.0000
+51,095,01480135,51095,James City,James City County,Virginia,"3,000","18,500",6.1667
+22,019,00558468,22019,Calcasieu,Calcasieu Parish,Louisiana,"6,035","1,500",0.2486
+22,111,00559528,22111,Union,Union Parish,Louisiana,"1,000",0,0.0000
+01,049,00161550,01049,DeKalb,DeKalb County,Alabama,"3,000","1,500",0.5000
+36,101,00974148,36101,Steuben,Steuben County,New York,"1,500","5,000",3.3333
+22,105,00559500,22105,Tangipahoa,Tangipahoa Parish,Louisiana,0,"2,500",100.0000
+51,179,01480173,51179,Stafford,Stafford County,Virginia,"2,500","6,900",2.7600
+18,073,00450494,18073,Jasper,Jasper County,Indiana,"3,500",0,0.0000
+48,361,01383966,48361,Orange,Orange County,Texas,"1,000",0,0.0000
+25,015,00606934,25015,Hampshire,Hampshire County,Massachusetts,"2,000","63,075",31.5375
+21,003,00516848,21003,Allen,Allen County,Kentucky,500,0,0.0000
+37,001,01008531,37001,Alamance,Alamance County,North Carolina,"2,900","3,500",1.2069
+25,025,00606939,25025,Suffolk,Suffolk County,Massachusetts,"14,555","1,181,267",81.1588
+48,177,01383874,48177,Gonzales,Gonzales County,Texas,"1,000",0,0.0000
+47,115,01639770,47115,Marion,Marion County,Tennessee,"2,500","3,500",1.4000
+21,231,00516962,21231,Wayne,Wayne County,Kentucky,0,"1,000",100.0000
+47,185,01639800,47185,White,White County,Tennessee,500,0,0.0000
+48,147,01383859,48147,Fannin,Fannin County,Texas,"1,000",500,0.5000
+48,265,01383918,48265,Kerr,Kerr County,Texas,"5,000","2,500",0.5000
+12,053,00295751,12053,Hernando,Hernando County,Florida,"4,800","25,400",5.2917
+12,129,00306912,12129,Wakulla,Wakulla County,Florida,500,0,0.0000
+12,131,00295727,12131,Walton,Walton County,Florida,"27,085","5,536",0.2044
+28,017,00695733,28017,Chickasaw,Chickasaw County,Mississippi,0,"1,800",100.0000
+12,127,00306921,12127,Volusia,Volusia County,Florida,"37,747","51,250",1.3577
+40,017,01101796,40017,Canadian,Canadian County,Oklahoma,"5,000","2,500",0.5000
+13,115,00353665,13115,Floyd,Floyd County,Georgia,"4,900",0,0.0000
+32,001,00858638,32001,Churchill,Churchill County,Nevada,"1,000",0,0.0000
+17,067,00424235,17067,Hancock,Hancock County,Illinois,"1,000","1,000",1.0000
+41,013,01155128,41013,Crook,Crook County,Oregon,0,"1,000",100.0000
+50,011,01461762,50011,Franklin,Franklin County,Vermont,840,"3,800",4.5238
+26,103,01622994,26103,Marquette,Marquette County,Michigan,0,"7,450",100.0000
+09,007,00212797,09007,Middlesex,Middlesex County,Connecticut,"1,500","39,000",26.0000
+17,025,00424214,17025,Clay,Clay County,Illinois,500,0,0.0000
+42,117,01209189,42117,Tioga,Tioga County,Pennsylvania,"1,000",0,0.0000
+26,089,01622987,26089,Leelanau,Leelanau County,Michigan,"2,000","17,400",8.7000
+39,017,01074021,39017,Butler,Butler County,Ohio,"14,450","24,100",1.6678
+13,063,01672399,13063,Clayton,Clayton County,Georgia,"4,500",0,0.0000
+56,013,01605072,56013,Fremont,Fremont County,Wyoming,"1,630",0,0.0000
+13,073,00348865,13073,Columbia,Columbia County,Georgia,"14,300","17,950",1.2552
+42,043,01213667,42043,Dauphin,Dauphin County,Pennsylvania,"2,300","40,450",17.5870
+54,079,01550046,54079,Putnam,Putnam County,West Virginia,"2,000",500,0.2500
+34,037,00882236,34037,Sussex,Sussex County,New Jersey,"3,000","2,500",0.8333
+20,039,00484989,20039,Decatur,Decatur County,Kansas,750,0,0.0000
+38,099,01034214,38099,Walsh,Walsh County,North Dakota,"1,000",0,0.0000
+39,133,01074079,39133,Portage,Portage County,Ohio,"8,300","5,600",0.6747
+32,013,00863310,32013,Humboldt,Humboldt County,Nevada,0,"3,300",100.0000
+41,005,01155127,41005,Clackamas,Clackamas County,Oregon,"61,700","78,732",1.2760
+24,047,01668802,24047,Worcester,Worcester County,Maryland,"3,300","2,200",0.6667
+18,069,00450361,18069,Huntington,Huntington County,Indiana,"3,000",0,0.0000
+21,209,00516951,21209,Scott,Scott County,Kentucky,"2,775",0,0.0000
+18,003,00450402,18003,Allen,Allen County,Indiana,"14,500","22,299",1.5379
+18,099,00450372,18099,Marshall,Marshall County,Indiana,0,"1,500",100.0000
+49,005,01448017,49005,Cache,Cache County,Utah,"1,500","1,000",0.6667
+55,093,01581107,55093,Pierce,Pierce County,Wisconsin,0,"1,000",100.0000
+13,049,00357747,13049,Charlton,Charlton County,Georgia,500,0,0.0000
+13,233,00343585,13233,Polk,Polk County,Georgia,"1,675",0,0.0000
+17,113,01784833,17113,McLean,McLean County,Illinois,"3,825","2,500",0.6536
+23,001,00581286,23001,Androscoggin,Androscoggin County,Maine,0,"3,800",100.0000
+16,055,00395661,16055,Kootenai,Kootenai County,Idaho,"9,300","4,000",0.4301
+32,003,00863600,32003,Clark,Clark County,Nevada,"135,450","959,204",7.0816
+29,101,00758505,29101,Johnson,Johnson County,Missouri,0,"1,000",100.0000
+55,063,01581091,55063,La Crosse,La Crosse County,Wisconsin,500,"3,000",6.0000
+22,021,00558477,22021,Caldwell,Caldwell Parish,Louisiana,"1,000",0,0.0000
+55,033,01581076,55033,Dunn,Dunn County,Wisconsin,500,"1,200",2.4000
+08,027,00198129,08027,Custer,Custer County,Colorado,500,0,0.0000
+48,353,01383962,48353,Nolan,Nolan County,Texas,500,0,0.0000
+42,127,01213692,42127,Wayne,Wayne County,Pennsylvania,"1,750","3,800",2.1714
+36,091,00974143,36091,Saratoga,Saratoga County,New York,"9,660","25,928",2.6841
+48,041,01383806,48041,Brazos,Brazos County,Texas,"25,100","27,150",1.0817
+24,001,01713506,24001,Allegany,Allegany County,Maryland,"1,000","16,200",16.2000
+54,103,01717836,54103,Wetzel,Wetzel County,West Virginia,"2,000",0,0.0000
+41,007,01135846,41007,Clatsop,Clatsop County,Oregon,0,"7,630",100.0000
+53,041,01531927,53041,Lewis,Lewis County,Washington,"1,000","8,654",8.6540
+36,003,00974100,36003,Allegany,Allegany County,New York,"1,000","2,000",2.0000
+19,031,00465205,19031,Cedar,Cedar County,Iowa,0,500,100.0000
+18,117,00451681,18117,Orange,Orange County,Indiana,"1,500",600,0.4000
+13,089,01687424,13089,DeKalb,DeKalb County,Georgia,"15,400","275,266",17.8744
+13,227,01673011,13227,Pickens,Pickens County,Georgia,"2,000","4,000",2.0000
+47,013,01639728,47013,Campbell,Campbell County,Tennessee,"1,500",0,0.0000
+37,069,01008553,37069,Franklin,Franklin County,North Carolina,0,500,100.0000
+24,510,01702381,24510,Baltimore,Baltimore city,Maryland,"5,500","208,279",37.8689
+22,107,00559509,22107,Tensas,Tensas Parish,Louisiana,0,"3,300",100.0000
+47,123,01639776,47123,Monroe,Monroe County,Tennessee,"1,000",0,0.0000
+05,063,00069163,05063,Independence,Independence County,Arkansas,"7,100",0,0.0000
+05,085,00069164,05085,Lonoke,Lonoke County,Arkansas,0,500,100.0000
+13,119,00349324,13119,Franklin,Franklin County,Georgia,"1,500",0,0.0000
+48,245,01383908,48245,Jefferson,Jefferson County,Texas,"16,400","63,000",3.8415
+08,067,00198148,08067,La Plata,La Plata County,Colorado,"6,200","21,000",3.3871
+48,027,01383799,48027,Bell,Bell County,Texas,"15,199","5,119",0.3368
+05,019,00066845,05019,Clark,Clark County,Arkansas,0,500,100.0000
+41,035,01155134,41035,Klamath,Klamath County,Oregon,"2,500",0,0.0000
+36,075,00974136,36075,Oswego,Oswego County,New York,0,500,100.0000
+01,019,00161535,01019,Cherokee,Cherokee County,Alabama,"6,100",0,0.0000
+48,019,01383795,48019,Bandera,Bandera County,Texas,"7,800",0,0.0000
+26,153,01623017,26153,Schoolcraft,Schoolcraft County,Michigan,0,600,100.0000
+36,111,00974153,36111,Ulster,Ulster County,New York,"1,000","33,202",33.2020
+34,007,00882273,34007,Camden,Camden County,New Jersey,"4,130","61,262",14.8334
+17,083,00424243,17083,Jersey,Jersey County,Illinois,"1,000",0,0.0000
+51,085,01480132,51085,Hanover,Hanover County,Virginia,"4,950","12,500",2.5253
+48,215,01383893,48215,Hidalgo,Hidalgo County,Texas,"13,550","22,800",1.6827
+37,155,01026130,37155,Robeson,Robeson County,North Carolina,"3,300","1,000",0.3030
+26,123,01623004,26123,Newaygo,Newaygo County,Michigan,0,"1,000",100.0000
+05,083,00082850,05083,Logan,Logan County,Arkansas,0,500,100.0000
+37,109,01008569,37109,Lincoln,Lincoln County,North Carolina,"4,000","5,800",1.4500
+05,091,00069166,05091,Miller,Miller County,Arkansas,"1,500",0,0.0000
+12,095,00295750,12095,Orange,Orange County,Florida,"102,720","592,497",5.7681
+13,045,00326650,13045,Carroll,Carroll County,Georgia,"1,000","1,000",1.0000
+20,161,00485044,20161,Riley,Riley County,Kansas,0,"4,300",100.0000
+51,167,01497573,51167,Russell,Russell County,Virginia,"6,100",0,0.0000
+37,027,01008541,37027,Caldwell,Caldwell County,North Carolina,0,"2,000",100.0000
+16,065,00394803,16065,Madison,Madison County,Idaho,500,0,0.0000
+18,173,00450335,18173,Warrick,Warrick County,Indiana,0,500,100.0000
+23,023,00581297,23023,Sagadahoc,Sagadahoc County,Maine,0,"4,000",100.0000
+30,097,01719569,30097,Sweet Grass,Sweet Grass County,Montana,0,500,100.0000
+48,181,01383876,48181,Grayson,Grayson County,Texas,"7,600","11,400",1.5000
+42,059,01214033,42059,Greene,Greene County,Pennsylvania,"1,000",500,0.5000
+20,051,00484995,20051,Ellis,Ellis County,Kansas,0,"2,000",100.0000
+01,033,00161542,01033,Colbert,Colbert County,Alabama,"4,895",0,0.0000
+20,151,00485039,20151,Pratt,Pratt County,Kansas,500,0,0.0000
+21,017,00516855,21017,Bourbon,Bourbon County,Kentucky,500,0,0.0000
+47,149,01639787,47149,Rutherford,Rutherford County,Tennessee,"10,100","5,886",0.5828
+17,147,00424275,17147,Piatt,Piatt County,Illinois,0,"2,500",100.0000
+37,063,01008550,37063,Durham,Durham County,North Carolina,"14,200","107,422",7.5649
+31,103,00835873,31103,Keya Paha,Keya Paha County,Nebraska,500,0,0.0000
+19,187,00465282,19187,Webster,Webster County,Iowa,500,0,0.0000
+17,151,00424277,17151,Pope,Pope County,Illinois,500,0,0.0000
+47,159,01639791,47159,Smith,Smith County,Tennessee,0,"2,800",100.0000
+51,089,01502770,51089,Henry,Henry County,Virginia,"1,130",0,0.0000
+51,510,01498415,51510,Alexandria,Alexandria city,Virginia,"18,890","323,057",17.1020
+19,101,00465239,19101,Jefferson,Jefferson County,Iowa,"1,000","1,000",1.0000
+30,049,00793926,30049,Lewis and Clark,Lewis and Clark County,Montana,"1,000","3,000",3.0000
+21,193,00516943,21193,Perry,Perry County,Kentucky,0,"1,000",100.0000
+41,029,01135853,41029,Jackson,Jackson County,Oregon,"9,036","32,200",3.5635
+48,507,01384039,48507,Zavala,Zavala County,Texas,"1,000",0,0.0000
+19,121,00465249,19121,Madison,Madison County,Iowa,0,"6,800",100.0000
+12,011,00295753,12011,Broward,Broward County,Florida,"138,927","378,199",2.7223
+13,279,00345220,13279,Toombs,Toombs County,Georgia,500,0,0.0000
+26,151,01623016,26151,Sanilac,Sanilac County,Michigan,500,0,0.0000
+48,397,01383984,48397,Rockwall,Rockwall County,Texas,"14,209","12,700",0.8938
+26,163,01623022,26163,Wayne,Wayne County,Michigan,"33,730","281,400",8.3427
+37,145,01008577,37145,Person,Person County,North Carolina,"3,800","2,800",0.7368
+28,151,00695796,28151,Washington,Washington County,Mississippi,500,0,0.0000
+48,123,01383844,48123,DeWitt,DeWitt County,Texas,"2,000","1,150",0.5750
+48,005,01383788,48005,Angelina,Angelina County,Texas,"1,000","3,000",3.0000
+05,001,00063755,05001,Arkansas,Arkansas County,Arkansas,500,0,0.0000
+29,109,00758509,29109,Lawrence,Lawrence County,Missouri,0,500,100.0000
+17,011,00424207,17011,Bureau,Bureau County,Illinois,500,0,0.0000
+39,145,01074085,39145,Scioto,Scioto County,Ohio,0,"1,000",100.0000
+37,115,01025834,37115,Madison,Madison County,North Carolina,0,"3,300",100.0000
+48,309,01383946,48309,McLennan,McLennan County,Texas,"23,944","20,350",0.8499
+16,037,00399758,16037,Custer,Custer County,Idaho,0,"1,000",100.0000
+12,099,00295761,12099,Palm Beach,Palm Beach County,Florida,"240,128","1,187,067",4.9435
+13,181,01688000,13181,Lincoln,Lincoln County,Georgia,"1,000",500,0.5000
+47,165,01639794,47165,Sumner,Sumner County,Tennessee,"4,000","6,000",1.5000
+05,015,00066975,05015,Carroll,Carroll County,Arkansas,0,"2,000",100.0000
+02,220,01419981,02220,Sitka,Sitka City and Borough,Alaska,0,"2,400",100.0000
+41,051,01135861,41051,Multnomah,Multnomah County,Oregon,"14,800","332,754",22.4834
+27,057,00659474,27057,Hubbard,Hubbard County,Minnesota,"1,100",0,0.0000
+36,089,00977309,36089,St. Lawrence,St. Lawrence County,New York,"4,500","2,000",0.4444
+06,067,00277298,06067,Sacramento,Sacramento County,California,"49,500","234,104",4.7294
+06,083,00277306,06083,Santa Barbara,Santa Barbara County,California,"21,530","198,402",9.2151
+54,005,01550009,54005,Boone,Boone County,West Virginia,0,500,100.0000
+19,147,00465262,19147,Palo Alto,Palo Alto County,Iowa,500,0,0.0000
+37,151,01008580,37151,Randolph,Randolph County,North Carolina,"2,675",500,0.1869
+24,015,00596115,24015,Cecil,Cecil County,Maryland,"1,500","2,000",1.3333
+31,151,00835897,31151,Saline,Saline County,Nebraska,500,0,0.0000
+25,001,00606927,25001,Barnstable,Barnstable County,Massachusetts,"8,500","121,319",14.2728
+42,065,01213674,42065,Jefferson,Jefferson County,Pennsylvania,600,0,0.0000
+18,089,00450495,18089,Lake,Lake County,Indiana,"6,500","18,545",2.8531
+47,003,01639723,47003,Bedford,Bedford County,Tennessee,500,0,0.0000
+17,029,00424216,17029,Coles,Coles County,Illinois,"6,000",500,0.0833
+47,097,01639763,47097,Lauderdale,Lauderdale County,Tennessee,0,"2,800",100.0000
+41,001,01135845,41001,Baker,Baker County,Oregon,"2,500",0,0.0000
+36,097,00974146,36097,Schuyler,Schuyler County,New York,0,"2,000",100.0000
+26,159,01623020,26159,Van Buren,Van Buren County,Michigan,"1,000",0,0.0000
+17,131,01784750,17131,Mercer,Mercer County,Illinois,500,0,0.0000
+21,177,00516935,21177,Muhlenberg,Muhlenberg County,Kentucky,0,500,100.0000
+17,049,00424226,17049,Effingham,Effingham County,Illinois,"2,500",0,0.0000
+47,105,01639767,47105,Loudon,Loudon County,Tennessee,0,"1,500",100.0000
+15,003,00365281,15003,Honolulu,Honolulu County,Hawaii,"44,450","79,413",1.7866
+18,157,00450393,18157,Tippecanoe,Tippecanoe County,Indiana,"2,000","10,050",5.0250
+42,109,01213686,42109,Snyder,Snyder County,Pennsylvania,0,"3,500",100.0000
+48,277,01383925,48277,Lamar,Lamar County,Texas,"1,500",0,0.0000
+12,086,00295755,12086,Miami-Dade,Miami-Dade County,Florida,"103,910","1,348,065",12.9734
+48,289,01383930,48289,Leon,Leon County,Texas,"1,000",0,0.0000
+08,097,00198164,08097,Pitkin,Pitkin County,Colorado,"8,600","179,945",20.9238
+38,035,01034218,38035,Grand Forks,Grand Forks County,North Dakota,0,"3,500",100.0000
+18,091,00450507,18091,LaPorte,LaPorte County,Indiana,"1,000","3,000",3.0000
+18,057,00450356,18057,Hamilton,Hamilton County,Indiana,"31,900","40,561",1.2715
+40,081,01101828,40081,Lincoln,Lincoln County,Oklahoma,500,0,0.0000
+13,145,00326700,13145,Harris,Harris County,Georgia,"2,204",0,0.0000
+48,433,01384002,48433,Stonewall,Stonewall County,Texas,"1,500",0,0.0000
+39,069,01074047,39069,Henry,Henry County,Ohio,"2,000",0,0.0000
+33,009,00873178,33009,Grafton,Grafton County,New Hampshire,"9,400","64,500",6.8617
+29,145,00758527,29145,Newton,Newton County,Missouri,"1,000",0,0.0000
+18,129,00450383,18129,Posey,Posey County,Indiana,"7,400",0,0.0000
+48,311,01383947,48311,McMullen,McMullen County,Texas,"4,350",0,0.0000
+13,297,00351264,13297,Walton,Walton County,Georgia,"9,000",0,0.0000
+27,121,00659506,27121,Pope,Pope County,Minnesota,"1,000",0,0.0000
+51,157,01673976,51157,Rappahannock,Rappahannock County,Virginia,"1,248","17,150",13.7420
+51,009,01480095,51009,Amherst,Amherst County,Virginia,"2,000",0,0.0000
+06,111,00277320,06111,Ventura,Ventura County,California,"36,160","127,250",3.5191
+08,093,00198162,08093,Park,Park County,Colorado,500,"1,500",3.0000
+06,037,00277283,06037,Los Angeles,Los Angeles County,California,"324,493","6,124,658",18.8745
+04,027,00023901,04027,Yuma,Yuma County,Arizona,"11,300","2,800",0.2478
+13,129,00356672,13129,Gordon,Gordon County,Georgia,500,0,0.0000
+12,055,00295756,12055,Highlands,Highlands County,Florida,"3,000","1,000",0.3333
+50,017,01461765,50017,Orange,Orange County,Vermont,0,"10,300",100.0000
+04,021,00025447,04021,Pinal,Pinal County,Arizona,"10,700","10,050",0.9393
+12,017,00295752,12017,Citrus,Citrus County,Florida,"4,500","1,000",0.2222
+42,031,01210234,42031,Clarion,Clarion County,Pennsylvania,500,0,0.0000
+46,073,01265778,46073,Jerauld,Jerauld County,South Dakota,0,500,100.0000
+18,037,00451675,18037,Dubois,Dubois County,Indiana,"1,000","2,800",2.8000
+36,031,00974114,36031,Essex,Essex County,New York,"2,500","8,500",3.4000
+51,005,01673675,51005,Alleghany,Alleghany County,Virginia,0,500,100.0000
+28,087,00695767,28087,Lowndes,Lowndes County,Mississippi,"4,000",0,0.0000
+18,143,00450386,18143,Scott,Scott County,Indiana,"1,000",0,0.0000
+08,099,00198165,08099,Prowers,Prowers County,Colorado,0,"1,000",100.0000
+40,101,01101838,40101,Muskogee,Muskogee County,Oklahoma,"1,000",0,0.0000
+29,043,00758476,29043,Christian,Christian County,Missouri,"7,350","5,600",0.7619
+28,073,00695760,28073,Lamar,Lamar County,Mississippi,"3,630","1,000",0.2755
+18,137,00450385,18137,Ripley,Ripley County,Indiana,500,0,0.0000
+13,147,01687995,13147,Hart,Hart County,Georgia,500,"2,800",5.6000
+51,133,01480152,51133,Northumberland,Northumberland County,Virginia,"2,000","1,000",0.5000
+48,157,01383864,48157,Fort Bend,Fort Bend County,Texas,"41,050","44,700",1.0889
+55,047,01581083,55047,Green Lake,Green Lake County,Wisconsin,0,500,100.0000
+55,127,01581123,55127,Walworth,Walworth County,Wisconsin,"3,500","3,300",0.9429
+36,103,00974149,36103,Suffolk,Suffolk County,New York,"77,108","328,268",4.2572
+31,157,00835900,31157,Scotts Bluff,Scotts Bluff County,Nebraska,0,500,100.0000
+01,081,00161566,01081,Lee,Lee County,Alabama,"1,500","4,000",2.6667
+48,367,01383969,48367,Parker,Parker County,Texas,"27,600","2,000",0.0725
+38,003,01034225,38003,Barnes,Barnes County,North Dakota,500,0,0.0000
+13,293,00346759,13293,Upson,Upson County,Georgia,"1,000","1,500",1.5000
+06,097,01657246,06097,Sonoma,Sonoma County,California,"12,625","187,007",14.8124
+26,033,01622959,26033,Chippewa,Chippewa County,Michigan,"3,300","1,000",0.3030
+16,019,00395407,16019,Bonneville,Bonneville County,Idaho,"2,500","15,500",6.2000
+13,013,00356976,13013,Barrow,Barrow County,Georgia,"1,500",0,0.0000
+42,033,01209175,42033,Clearfield,Clearfield County,Pennsylvania,500,0,0.0000
+26,037,01622961,26037,Clinton,Clinton County,Michigan,500,"4,300",8.6000
+28,003,00711755,28003,Alcorn,Alcorn County,Mississippi,"1,500",0,0.0000
+28,071,00695759,28071,Lafayette,Lafayette County,Mississippi,500,"9,600",19.2000
+17,115,00424256,17115,Macon,Macon County,Illinois,"2,000","2,000",1.0000
+26,149,01625034,26149,St. Joseph,St. Joseph County,Michigan,"2,000",0,0.0000
+17,055,00424229,17055,Franklin,Franklin County,Illinois,0,500,100.0000
+31,001,00835823,31001,Adams,Adams County,Nebraska,"2,500",0,0.0000
+27,109,00659500,27109,Olmsted,Olmsted County,Minnesota,"7,000","15,300",2.1857
+34,039,00882235,34039,Union,Union County,New Jersey,"19,500","127,770",6.5523
+01,097,00161575,01097,Mobile,Mobile County,Alabama,"6,500","14,750",2.2692
+46,087,01265773,46087,McCook,McCook County,South Dakota,0,500,100.0000
+01,057,00161554,01057,Fayette,Fayette County,Alabama,500,0,0.0000
+37,013,01026333,37013,Beaufort,Beaufort County,North Carolina,"1,000","5,500",5.5000
+38,015,01035614,38015,Burleigh,Burleigh County,North Dakota,"3,500","1,000",0.2857
+37,159,01008583,37159,Rowan,Rowan County,North Carolina,"3,500","15,000",4.2857
+48,149,01383860,48149,Fayette,Fayette County,Texas,0,"1,000",100.0000
+46,081,01266996,46081,Lawrence,Lawrence County,South Dakota,679,"1,000",1.4728
+23,029,00581300,23029,Washington,Washington County,Maine,0,500,100.0000
+41,003,01155126,41003,Benton,Benton County,Oregon,"1,000","24,200",24.2000
+42,063,01213673,42063,Indiana,Indiana County,Pennsylvania,0,"5,000",100.0000
+22,061,00558077,22061,Lincoln,Lincoln Parish,Louisiana,"2,000","1,500",0.7500
+48,203,01383887,48203,Harrison,Harrison County,Texas,"3,500","2,800",0.8000
+40,131,01101853,40131,Rogers,Rogers County,Oklahoma,"2,000",0,0.0000
+29,019,00758464,29019,Boone,Boone County,Missouri,"16,500","16,350",0.9909
+08,059,00198145,08059,Jefferson,Jefferson County,Colorado,"45,400","82,720",1.8220
+54,011,01550012,54011,Cabell,Cabell County,West Virginia,"5,800","3,200",0.5517
+08,117,00198174,08117,Summit,Summit County,Colorado,"10,000","11,400",1.1400
+20,035,00484987,20035,Cowley,Cowley County,Kansas,"1,000",0,0.0000
+36,041,00974119,36041,Hamilton,Hamilton County,New York,0,"2,800",100.0000
+51,045,01673664,51045,Craig,Craig County,Virginia,0,"1,200",100.0000
+02,290,01419987,02290,Yukon-Koyukuk,Yukon-Koyukuk Census Area,Alaska,0,"1,000",100.0000
+04,017,00042808,04017,Navajo,Navajo County,Arizona,"1,000",500,0.5000
+28,085,00695766,28085,Lincoln,Lincoln County,Mississippi,0,500,100.0000
+18,005,00451683,18005,Bartholomew,Bartholomew County,Indiana,"5,225","3,000",0.5742
+13,223,00349912,13223,Paulding,Paulding County,Georgia,500,"3,800",7.6000
+39,015,01074020,39015,Brown,Brown County,Ohio,"1,000",0,0.0000
+47,141,01639783,47141,Putnam,Putnam County,Tennessee,"1,500","3,500",2.3333
+38,101,01034231,38101,Ward,Ward County,North Dakota,"1,000","3,800",3.8000
+25,027,00606940,25027,Worcester,Worcester County,Massachusetts,"16,055","90,469",5.6349
+39,091,01074058,39091,Logan,Logan County,Ohio,"1,240",0,0.0000
+06,031,00277280,06031,Kings,Kings County,California,500,0,0.0000
+06,073,00277301,06073,San Diego,San Diego County,California,"152,613","771,418",5.0547
+29,037,00758473,29037,Cass,Cass County,Missouri,"2,500","2,000",0.8000
+36,027,00974112,36027,Dutchess,Dutchess County,New York,"15,940","107,860",6.7666
+48,477,01384024,48477,Washington,Washington County,Texas,"8,700",0,0.0000
+08,101,00198166,08101,Pueblo,Pueblo County,Colorado,"6,300",500,0.0794
+37,051,01026124,37051,Cumberland,Cumberland County,North Carolina,"3,000","11,600",3.8667
+06,061,00277295,06061,Placer,Placer County,California,"31,600","79,350",2.5111
+36,077,00974137,36077,Otsego,Otsego County,New York,600,"1,750",2.9167
+37,153,01008581,37153,Richmond,Richmond County,North Carolina,"2,500","1,000",0.4000
+37,093,01008563,37093,Hoke,Hoke County,North Carolina,"2,800",0,0.0000
+31,131,00835887,31131,Otoe,Otoe County,Nebraska,0,"1,000",100.0000
+45,035,01247998,45035,Dorchester,Dorchester County,South Carolina,0,"4,500",100.0000
+17,023,00424213,17023,Clark,Clark County,Illinois,500,500,1.0000
+45,015,01247985,45015,Berkeley,Berkeley County,South Carolina,"3,000","12,800",4.2667
+05,051,00066855,05051,Garland,Garland County,Arkansas,"4,500","5,054",1.1231
+39,155,01074089,39155,Trumbull,Trumbull County,Ohio,"6,930",0,0.0000
+42,019,01213661,42019,Butler,Butler County,Pennsylvania,"10,500","17,150",1.6333
+16,049,00395699,16049,Idaho,Idaho County,Idaho,"1,000",0,0.0000
+51,029,01501502,51029,Buckingham,Buckingham County,Virginia,0,"2,000",100.0000
+37,025,01008540,37025,Cabarrus,Cabarrus County,North Carolina,"12,120","10,500",0.8663
+49,011,01448020,49011,Davis,Davis County,Utah,"6,800","2,000",0.2941
+13,291,00353193,13291,Union,Union County,Georgia,"2,000",0,0.0000
+19,013,00465196,19013,Black Hawk,Black Hawk County,Iowa,"2,000","4,000",2.0000
+01,125,00161588,01125,Tuscaloosa,Tuscaloosa County,Alabama,"1,500","9,600",6.4000
+28,097,00711757,28097,Montgomery,Montgomery County,Mississippi,"1,500",0,0.0000
+31,099,00835871,31099,Kearney,Kearney County,Nebraska,0,"1,000",100.0000
+10,003,00217270,10003,New Castle,New Castle County,Delaware,"10,700","1,071,844",100.1723
+16,081,00399297,16081,Teton,Teton County,Idaho,0,"4,000",100.0000
+17,161,00424282,17161,Rock Island,Rock Island County,Illinois,"4,000","2,800",0.7000
+51,073,01480126,51073,Gloucester,Gloucester County,Virginia,"1,000","1,000",1.0000
+18,017,00450339,18017,Cass,Cass County,Indiana,0,"1,000",100.0000
+16,077,00394951,16077,Power,Power County,Idaho,0,500,100.0000
+42,101,01209187,42101,Philadelphia,Philadelphia County,Pennsylvania,"9,800","935,002",95.4084
+56,043,01605085,56043,Washakie,Washakie County,Wyoming,0,500,100.0000
+36,109,00974152,36109,Tompkins,Tompkins County,New York,"1,500","17,300",11.5333
+05,069,00066862,05069,Jefferson,Jefferson County,Arkansas,0,500,100.0000
+55,123,01581121,55123,Vernon,Vernon County,Wisconsin,0,500,100.0000
+48,223,01383897,48223,Hopkins,Hopkins County,Texas,"5,099",0,0.0000
+36,001,00974099,36001,Albany,Albany County,New York,"9,000","52,200",5.8000
+48,225,01383898,48225,Houston,Houston County,Texas,0,"5,600",100.0000
+39,111,01074068,39111,Monroe,Monroe County,Ohio,500,0,0.0000
+20,165,00485358,20165,Rush,Rush County,Kansas,"1,000",0,0.0000
+18,107,00450374,18107,Montgomery,Montgomery County,Indiana,500,0,0.0000
+27,071,00659481,27071,Koochiching,Koochiching County,Minnesota,500,0,0.0000
+48,029,01383800,48029,Bexar,Bexar County,Texas,"143,550","246,765",1.7190
+08,013,00198122,08013,Boulder,Boulder County,Colorado,"34,652","345,741",9.9775
+47,089,01639759,47089,Jefferson,Jefferson County,Tennessee,"3,675",0,0.0000
+40,097,01101833,40097,Mayes,Mayes County,Oklahoma,"2,000",0,0.0000
+16,013,00395696,16013,Blaine,Blaine County,Idaho,"4,300","116,328",27.0530
+22,053,00558039,22053,Jefferson Davis,Jefferson Davis Parish,Louisiana,"1,000",0,0.0000
+08,031,00198131,08031,Denver,Denver County,Colorado,"43,855","572,306",13.0500
+17,093,00424248,17093,Kendall,Kendall County,Illinois,"1,000","1,000",1.0000
+11,001,01702382,11001,District of Columbia,District of Columbia,#N/A,"43,400","3,785,940",87.2336
+08,085,00198158,08085,Montrose,Montrose County,Colorado,"1,000","8,050",8.0500
+27,171,00659530,27171,Wright,Wright County,Minnesota,"3,300","1,000",0.3030
+55,059,01581089,55059,Kenosha,Kenosha County,Wisconsin,"2,360","9,000",3.8136
+08,037,00198134,08037,Eagle,Eagle County,Colorado,"2,000","84,162",42.0810
+06,075,00277302,06075,San Francisco,San Francisco County,California,"34,550","2,184,391",63.2241
+08,113,00198172,08113,San Miguel,San Miguel County,Colorado,"6,000","33,100",5.5167
+02,020,01416061,02020,Anchorage,Anchorage Municipality,Alaska,"22,150","34,550",1.5598
+12,109,00308371,12109,St. Johns,St. Johns County,Florida,"40,650","75,932",1.8679
+29,079,00758494,29079,Grundy,Grundy County,Missouri,500,0,0.0000
+26,139,01623012,26139,Ottawa,Ottawa County,Michigan,"9,375","9,050",0.9653
+17,031,01784766,17031,Cook,Cook County,Illinois,"143,672","3,045,070",21.1946
+27,027,00659459,27027,Clay,Clay County,Minnesota,0,"1,600",100.0000
+47,075,01639753,47075,Haywood,Haywood County,Tennessee,500,500,1.0000
+16,039,00400252,16039,Elmore,Elmore County,Idaho,"5,500","7,600",1.3818
+24,005,01695314,24005,Baltimore,Baltimore County,Maryland,"26,925","187,620",6.9682
+39,087,01074056,39087,Lawrence,Lawrence County,Ohio,500,"1,000",2.0000
+29,201,00758553,29201,Scott,Scott County,Missouri,"1,000",500,0.5000
+48,143,01383857,48143,Erath,Erath County,Texas,"1,500",500,0.3333
+13,137,00351383,13137,Habersham,Habersham County,Georgia,500,"2,000",4.0000
+54,061,01550037,54061,Monongalia,Monongalia County,West Virginia,"2,600","10,642",4.0931
+12,027,00294452,12027,DeSoto,DeSoto County,Florida,"2,000",0,0.0000
+09,011,00212799,09011,New London,New London County,Connecticut,"6,300","46,981",7.4573
+39,059,01074042,39059,Guernsey,Guernsey County,Ohio,"2,242",0,0.0000
+26,015,01622950,26015,Barry,Barry County,Michigan,0,"1,000",100.0000
+51,760,01789073,51760,Richmond,Richmond city,Virginia,"9,000","141,810",15.7567
+37,169,01008586,37169,Stokes,Stokes County,North Carolina,500,"1,080",2.1600
+06,041,00277285,06041,Marin,Marin County,California,"27,575","927,111",33.6214
+48,381,01383976,48381,Randall,Randall County,Texas,"21,900","3,800",0.1735
+19,181,00465279,19181,Warren,Warren County,Iowa,"1,500","2,050",1.3667
+39,161,01074092,39161,Van Wert,Van Wert County,Ohio,0,500,100.0000
+12,043,00295743,12043,Glades,Glades County,Florida,"1,000",0,0.0000
+13,199,00346892,13199,Meriwether,Meriwether County,Georgia,500,0,0.0000
+48,099,01383835,48099,Coryell,Coryell County,Texas,500,0,0.0000
+06,043,00277286,06043,Mariposa,Mariposa County,California,0,"1,500",100.0000
+41,047,01135859,41047,Marion,Marion County,Oregon,"10,640","18,000",1.6917
+55,079,01581100,55079,Milwaukee,Milwaukee County,Wisconsin,"14,350","82,265",5.7328
+27,139,00659514,27139,Scott,Scott County,Minnesota,"1,500","5,300",3.5333
+39,129,01074077,39129,Pickaway,Pickaway County,Ohio,500,0,0.0000
+51,145,01674225,51145,Powhatan,Powhatan County,Virginia,"2,800",0,0.0000
+08,014,01945881,08014,Broomfield,Broomfield County,Colorado,"2,800","2,250",0.8036
+47,099,01639764,47099,Lawrence,Lawrence County,Tennessee,"2,625",0,0.0000
+26,009,01622947,26009,Antrim,Antrim County,Michigan,"1,000","1,500",1.5000
+16,009,00395190,16009,Benewah,Benewah County,Idaho,"1,000",0,0.0000
+17,103,00424253,17103,Lee,Lee County,Illinois,"1,000",0,0.0000
+37,031,01026337,37031,Carteret,Carteret County,North Carolina,"2,625","4,500",1.7143
+26,075,01622980,26075,Jackson,Jackson County,Michigan,"12,700",0,0.0000
+48,091,01383831,48091,Comal,Comal County,Texas,"30,225","1,000",0.0331
+25,019,00606936,25019,Nantucket,Nantucket County,Massachusetts,0,"30,200",100.0000
+48,007,01383789,48007,Aransas,Aransas County,Texas,"5,000","2,500",0.5000
+18,165,00450397,18165,Vermillion,Vermillion County,Indiana,500,0,0.0000
+26,143,01623014,26143,Roscommon,Roscommon County,Michigan,0,"1,000",100.0000
+06,035,01693324,06035,Lassen,Lassen County,California,"2,000","1,000",0.5000
+51,610,01498423,51610,Falls Church,Falls Church city,Virginia,"8,900","43,200",4.8539
+12,081,00295744,12081,Manatee,Manatee County,Florida,"45,950","108,554",2.3624
+39,119,01074072,39119,Muskingum,Muskingum County,Ohio,"1,000","1,000",1.0000
+08,015,00198123,08015,Chaffee,Chaffee County,Colorado,0,500,100.0000
+08,043,00198137,08043,Fremont,Fremont County,Colorado,"3,918","3,000",0.7657
+28,109,00695777,28109,Pearl River,Pearl River County,Mississippi,500,"7,100",14.2000
+21,117,00516905,21117,Kenton,Kenton County,Kentucky,"7,850","6,000",0.7643
+17,037,00422190,17037,DeKalb,DeKalb County,Illinois,"2,000","7,200",3.6000
+38,089,01035618,38089,Stark,Stark County,North Dakota,500,0,0.0000
+40,019,01101797,40019,Carter,Carter County,Oklahoma,500,"1,000",2.0000
+37,139,01026330,37139,Pasquotank,Pasquotank County,North Carolina,"1,000","3,000",3.0000
+35,055,00933056,35055,Taos,Taos County,New Mexico,"1,000","22,050",22.0500
+28,011,00695730,28011,Bolivar,Bolivar County,Mississippi,500,"1,000",2.0000
+32,023,00863599,32023,Nye,Nye County,Nevada,"5,000","1,200",0.2400
+47,073,01639752,47073,Hawkins,Hawkins County,Tennessee,"1,250",0,0.0000
+42,057,01213671,42057,Fulton,Fulton County,Pennsylvania,"1,000",0,0.0000
+22,055,00558059,22055,Lafayette,Lafayette Parish,Louisiana,"6,624","6,800",1.0266
+16,069,00399394,16069,Nez Perce,Nez Perce County,Idaho,500,500,1.0000
+06,055,00277292,06055,Napa,Napa County,California,"3,500","57,181",16.3374
+29,221,00758563,29221,Washington,Washington County,Missouri,0,500,100.0000
+36,011,00974104,36011,Cayuga,Cayuga County,New York,0,"7,700",100.0000
+19,061,00465219,19061,Dubuque,Dubuque County,Iowa,"3,000","11,746",3.9153
+51,075,01674271,51075,Goochland,Goochland County,Virginia,"3,500","17,300",4.9429
+39,139,01074082,39139,Richland,Richland County,Ohio,"5,000","5,800",1.1600
+17,001,00424202,17001,Adams,Adams County,Illinois,"2,250",0,0.0000
+39,021,01074023,39021,Champaign,Champaign County,Ohio,0,"1,000",100.0000
+33,019,00873183,33019,Sullivan,Sullivan County,New Hampshire,500,"7,800",15.6000
+17,075,00424239,17075,Iroquois,Iroquois County,Illinois,"2,800","2,000",0.7143
+19,157,00465267,19157,Poweshiek,Poweshiek County,Iowa,500,500,1.0000
+39,169,01074096,39169,Wayne,Wayne County,Ohio,"1,500",500,0.3333
+13,113,01687740,13113,Fayette,Fayette County,Georgia,"3,000","7,800",2.6000
+48,259,01383915,48259,Kendall,Kendall County,Texas,"14,900","10,650",0.7148
+36,039,00974118,36039,Greene,Greene County,New York,"1,000","6,550",6.5500
+51,137,01494761,51137,Orange,Orange County,Virginia,"1,000","7,100",7.1000
+13,277,00344090,13277,Tift,Tift County,Georgia,"1,000",0,0.0000
+36,043,00974120,36043,Herkimer,Herkimer County,New York,"1,000","1,700",1.7000
+27,005,00659448,27005,Becker,Becker County,Minnesota,"1,500",0,0.0000
+01,095,00161574,01095,Marshall,Marshall County,Alabama,"1,500",750,0.5000
+54,057,01717890,54057,Mineral,Mineral County,West Virginia,500,0,0.0000
+17,053,00424228,17053,Ford,Ford County,Illinois,"2,000",0,0.0000
+06,089,01682610,06089,Shasta,Shasta County,California,"2,500","9,500",3.8000
+22,113,00559538,22113,Vermilion,Vermilion Parish,Louisiana,500,0,0.0000
+55,085,01581103,55085,Oneida,Oneida County,Wisconsin,"4,300",0,0.0000
+22,035,00558534,22035,East Carroll,East Carroll Parish,Louisiana,500,0,0.0000
+22,037,00558542,22037,East Feliciana,East Feliciana Parish,Louisiana,0,500,100.0000
+48,481,01384026,48481,Wharton,Wharton County,Texas,0,500,100.0000
+21,151,00516919,21151,Madison,Madison County,Kentucky,"4,000","8,500",2.1250
+47,009,01639726,47009,Blount,Blount County,Tennessee,"12,400","3,500",0.2823
+30,031,01720053,30031,Gallatin,Gallatin County,Montana,"21,500","29,700",1.3814
+45,031,01247992,45031,Darlington,Darlington County,South Carolina,"3,800",500,0.1316
+13,143,00350637,13143,Haralson,Haralson County,Georgia,500,0,0.0000
+51,079,01480129,51079,Greene,Greene County,Virginia,"1,000",0,0.0000
+55,137,01581128,55137,Waushara,Waushara County,Wisconsin,630,0,0.0000
+05,065,00066860,05065,Izard,Izard County,Arkansas,0,500,100.0000
+06,053,00277291,06053,Monterey,Monterey County,California,"11,250","84,094",7.4750
+35,017,00915980,35017,Grant,Grant County,New Mexico,"3,000","2,200",0.7333
+37,193,01008595,37193,Wilkes,Wilkes County,North Carolina,"1,000",0,0.0000
+02,110,01419971,02110,Juneau,Juneau City and Borough,Alaska,"1,000","15,488",15.4880
+29,165,00758537,29165,Platte,Platte County,Missouri,"13,800","4,800",0.3478
+29,021,00758465,29021,Buchanan,Buchanan County,Missouri,"5,600",500,0.0893
+01,083,00161567,01083,Limestone,Limestone County,Alabama,"1,500","4,800",3.2000
+39,123,01074074,39123,Ottawa,Ottawa County,Ohio,500,"2,500",5.0000
+19,165,00465271,19165,Shelby,Shelby County,Iowa,0,"1,080",100.0000
+24,013,01696228,24013,Carroll,Carroll County,Maryland,"5,800","18,705",3.2250
+27,025,00659458,27025,Chisago,Chisago County,Minnesota,"1,500","2,500",1.6667
+42,015,01213660,42015,Bradford,Bradford County,Pennsylvania,"1,000",500,0.5000
+54,029,01560574,54029,Hancock,Hancock County,West Virginia,"1,500","4,800",3.2000
+29,051,00758480,29051,Cole,Cole County,Missouri,"6,800","7,300",1.0735
+26,021,01622953,26021,Berrien,Berrien County,Michigan,"6,300","10,100",1.6032
+42,061,01213672,42061,Huntingdon,Huntingdon County,Pennsylvania,0,"1,700",100.0000
+17,163,01784987,17163,St. Clair,St. Clair County,Illinois,"11,200","34,140",3.0482
+17,189,01785150,17189,Washington,Washington County,Illinois,0,"1,000",100.0000
+42,073,01213676,42073,Lawrence,Lawrence County,Pennsylvania,"1,000","8,800",8.8000
+39,067,01074046,39067,Harrison,Harrison County,Ohio,0,"3,300",100.0000
+37,003,01008532,37003,Alexander,Alexander County,North Carolina,750,0,0.0000
+34,009,00882274,34009,Cape May,Cape May County,New Jersey,"2,800","5,539",1.9782
+33,005,00873176,33005,Cheshire,Cheshire County,New Hampshire,"1,000","15,400",15.4000
+51,101,01480138,51101,King William,King William County,Virginia,0,"1,500",100.0000
+48,257,01383914,48257,Kaufman,Kaufman County,Texas,0,"8,675",100.0000
+04,013,00037026,04013,Maricopa,Maricopa County,Arizona,"348,626","548,571",1.5735
+47,087,01639758,47087,Jackson,Jackson County,Tennessee,0,"1,500",100.0000
+01,009,00161530,01009,Blount,Blount County,Alabama,"1,000",0,0.0000
+48,251,01383911,48251,Johnson,Johnson County,Texas,"10,400","2,500",0.2404
+41,011,01135848,41011,Coos,Coos County,Oregon,"3,050","6,200",2.0328
+36,113,00974154,36113,Warren,Warren County,New York,500,"3,500",7.0000
+51,113,01494590,51113,Madison,Madison County,Virginia,0,"1,000",100.0000
+13,015,00351604,13015,Bartow,Bartow County,Georgia,"4,800","1,500",0.3125
+12,069,00308551,12069,Lake,Lake County,Florida,"38,600","52,750",1.3666
+40,111,01101843,40111,Okmulgee,Okmulgee County,Oklahoma,"1,000",0,0.0000
+20,091,00485010,20091,Johnson,Johnson County,Kansas,"36,125","80,748",2.2352
+24,009,01676636,24009,Calvert,Calvert County,Maryland,"4,000","4,500",1.1250
+53,031,01531936,53031,Jefferson,Jefferson County,Washington,"7,000","29,600",4.2286
+27,169,00659529,27169,Winona,Winona County,Minnesota,0,"4,700",100.0000
+28,149,00695795,28149,Warren,Warren County,Mississippi,0,500,100.0000
+29,003,00758456,29003,Andrew,Andrew County,Missouri,0,500,100.0000
+20,021,00484980,20021,Cherokee,Cherokee County,Kansas,0,"2,800",100.0000
+37,083,01008559,37083,Halifax,Halifax County,North Carolina,500,0,0.0000
+35,043,00929113,35043,Sandoval,Sandoval County,New Mexico,"10,400","32,500",3.1250
+41,043,01135857,41043,Linn,Linn County,Oregon,"4,000",500,0.1250
+40,147,01101861,40147,Washington,Washington County,Oklahoma,"4,300",0,0.0000
+54,077,01558642,54077,Preston,Preston County,West Virginia,500,"1,000",2.0000
+41,037,01135854,41037,Lake,Lake County,Oregon,500,0,0.0000
+48,473,01384022,48473,Waller,Waller County,Texas,"1,000",0,0.0000
+50,009,01461761,50009,Essex,Essex County,Vermont,"3,000",500,0.1667
+13,139,01686953,13139,Hall,Hall County,Georgia,"7,776","10,600",1.3632
+13,283,00347505,13283,Treutlen,Treutlen County,Georgia,500,0,0.0000
+55,125,01581122,55125,Vilas,Vilas County,Wisconsin,500,"1,700",3.4000
+27,007,00659449,27007,Beltrami,Beltrami County,Minnesota,500,0,0.0000
+24,019,00596495,24019,Dorchester,Dorchester County,Maryland,0,"5,600",100.0000
+42,037,01213665,42037,Columbia,Columbia County,Pennsylvania,"1,500",0,0.0000
+39,023,01074024,39023,Clark,Clark County,Ohio,"1,000",500,0.5000
+48,323,01383944,48323,Maverick,Maverick County,Texas,0,"1,000",100.0000
+04,019,00025446,04019,Pima,Pima County,Arizona,"37,530","146,456",3.9024
+34,005,00882272,34005,Burlington,Burlington County,New Jersey,"17,670","61,083",3.4569
+50,021,01461767,50021,Rutland,Rutland County,Vermont,"1,000","2,000",2.0000
+25,007,00606930,25007,Dukes,Dukes County,Massachusetts,"1,000","26,100",26.1000
+33,007,00873177,33007,Coos,Coos County,New Hampshire,0,500,100.0000
+18,127,00450382,18127,Porter,Porter County,Indiana,"5,000","10,600",2.1200
+37,163,01026131,37163,Sampson,Sampson County,North Carolina,"1,000",0,0.0000
+47,127,01648579,47127,Moore,Moore County,Tennessee,0,"1,000",100.0000
+12,103,00295745,12103,Pinellas,Pinellas County,Florida,"82,900","215,804",2.6032
+19,185,00465281,19185,Wayne,Wayne County,Iowa,500,0,0.0000
+48,165,01383868,48165,Gaines,Gaines County,Texas,"4,500",0,0.0000
+01,093,00161573,01093,Marion,Marion County,Alabama,"1,000",500,0.5000
+37,189,01008594,37189,Watauga,Watauga County,North Carolina,"2,000","6,500",3.2500
+51,770,01498439,51770,Roanoke,Roanoke city,Virginia,"1,500",500,0.3333
+48,037,01383804,48037,Bowie,Bowie County,Texas,"2,501","16,550",6.6174
+49,057,01448042,49057,Weber,Weber County,Utah,"11,078","5,000",0.4513
+29,127,00758517,29127,Marion,Marion County,Missouri,0,500,100.0000
+36,045,00974121,36045,Jefferson,Jefferson County,New York,"10,900","2,000",0.1835
+08,045,00198138,08045,Garfield,Garfield County,Colorado,"4,300",800,0.1860
+39,073,01074049,39073,Hocking,Hocking County,Ohio,"1,000",0,0.0000
+19,113,00465245,19113,Linn,Linn County,Iowa,"13,100","16,250",1.2405
+13,215,00357428,13215,Muscogee,Muscogee County,Georgia,"5,800","5,800",1.0000
+39,109,01074067,39109,Miami,Miami County,Ohio,"4,800","2,000",0.4167
+48,375,01383973,48375,Potter,Potter County,Texas,"2,500","1,500",0.6000
+45,003,01247979,45003,Aiken,Aiken County,South Carolina,"4,500","5,000",1.1111
+06,045,00277287,06045,Mendocino,Mendocino County,California,"1,500","20,700",13.8000
+51,550,01498558,51550,Chesapeake,Chesapeake city,Virginia,"4,500",0,0.0000
+56,037,01609192,56037,Sweetwater,Sweetwater County,Wyoming,500,0,0.0000
+48,169,01383870,48169,Garza,Garza County,Texas,"2,800",0,0.0000
+54,031,01718557,54031,Hardy,Hardy County,West Virginia,"9,400",0,0.0000
+55,089,01581105,55089,Ozaukee,Ozaukee County,Wisconsin,"2,000","11,300",5.6500
+47,163,01639793,47163,Sullivan,Sullivan County,Tennessee,"8,000","2,600",0.3250
+45,059,01248009,45059,Laurens,Laurens County,South Carolina,"6,100","2,500",0.4098
+56,011,01605071,56011,Crook,Crook County,Wyoming,"1,000",0,0.0000
+55,117,01581118,55117,Sheboygan,Sheboygan County,Wisconsin,"16,800",500,0.0298
+25,013,00606933,25013,Hampden,Hampden County,Massachusetts,"14,050","28,700",2.0427
+48,055,01383813,48055,Caldwell,Caldwell County,Texas,"2,000","1,000",0.5000
+01,037,00161544,01037,Coosa,Coosa County,Alabama,500,0,0.0000
+19,059,00465218,19059,Dickinson,Dickinson County,Iowa,"5,600",0,0.0000
+42,011,01209172,42011,Berks,Berks County,Pennsylvania,"5,500","26,150",4.7545
+47,019,01639730,47019,Carter,Carter County,Tennessee,0,500,100.0000
+27,083,00659487,27083,Lyon,Lyon County,Minnesota,"2,000",0,0.0000
+51,037,01492442,51037,Charlotte,Charlotte County,Virginia,0,"1,000",100.0000
+47,179,01639797,47179,Washington,Washington County,Tennessee,"14,530","4,000",0.2753
+45,071,01248013,45071,Newberry,Newberry County,South Carolina,0,"1,000",100.0000
+51,093,01702378,51093,Isle of Wight,Isle of Wight County,Virginia,500,"1,500",3.0000
+22,047,00558582,22047,Iberville,Iberville Parish,Louisiana,500,0,0.0000
+51,061,01480120,51061,Fauquier,Fauquier County,Virginia,"7,211","50,150",6.9547
+32,005,00858643,32005,Douglas,Douglas County,Nevada,"12,800","30,850",2.4102
+12,037,00306911,12037,Franklin,Franklin County,Florida,0,"2,000",100.0000
+55,131,01581125,55131,Washington,Washington County,Wisconsin,"4,000","1,500",0.3750
+29,105,00758507,29105,Laclede,Laclede County,Missouri,"2,800",0,0.0000
+42,085,01213678,42085,Mercer,Mercer County,Pennsylvania,"1,000","3,250",3.2500
+05,031,00066847,05031,Craighead,Craighead County,Arkansas,0,"1,000",100.0000
+27,049,00659470,27049,Goodhue,Goodhue County,Minnesota,0,"5,600",100.0000
+12,101,00295739,12101,Pasco,Pasco County,Florida,"26,504","22,100",0.8338
+12,119,00295740,12119,Sumter,Sumter County,Florida,"14,500","23,800",1.6414
+36,059,00974128,36059,Nassau,Nassau County,New York,"49,628","601,419",12.1185
+18,163,00450396,18163,Vanderburgh,Vanderburgh County,Indiana,"2,500","7,075",2.8300
+29,071,00758490,29071,Franklin,Franklin County,Missouri,"10,500","2,500",0.2381
+54,107,01560558,54107,Wood,Wood County,West Virginia,"3,500",500,0.1429
+55,007,01581063,55007,Bayfield,Bayfield County,Wisconsin,0,"2,200",100.0000
+55,097,01581109,55097,Portage,Portage County,Wisconsin,0,"5,300",100.0000
+45,063,01244251,45063,Lexington,Lexington County,South Carolina,"8,100","31,650",3.9074
+24,003,01710958,24003,Anne Arundel,Anne Arundel County,Maryland,"34,299","183,750",5.3573
+55,039,01581079,55039,Fond du Lac,Fond du Lac County,Wisconsin,"3,000","4,500",1.5000
+55,061,01581090,55061,Kewaunee,Kewaunee County,Wisconsin,"1,000",0,0.0000
+48,369,01383970,48369,Parmer,Parmer County,Texas,"2,700",0,0.0000
+40,151,01101863,40151,Woods,Woods County,Oklahoma,"1,000",0,0.0000
+25,003,00606928,25003,Berkshire,Berkshire County,Massachusetts,"2,500","56,775",22.7100
+41,045,01135858,41045,Malheur,Malheur County,Oregon,0,"1,000",100.0000
+34,023,00882230,34023,Middlesex,Middlesex County,New Jersey,"16,425","88,222",5.3712
+25,005,00606929,25005,Bristol,Bristol County,Massachusetts,"11,100","65,801",5.9280
+42,107,01213685,42107,Schuylkill,Schuylkill County,Pennsylvania,"3,000","4,000",1.3333
+37,045,01008547,37045,Cleveland,Cleveland County,North Carolina,"3,300","1,000",0.3030
+24,021,01711211,24021,Frederick,Frederick County,Maryland,"7,500","15,736",2.0981
+06,051,00277290,06051,Mono,Mono County,California,600,"5,800",9.6667
+06,109,00277319,06109,Tuolumne,Tuolumne County,California,"1,000","1,000",1.0000
+35,013,00929109,35013,Do??a Ana,Do??a Ana County,New Mexico,"16,917","7,300",0.4315
+06,095,00277312,06095,Solano,Solano County,California,"12,682","22,700",1.7899
+19,043,00465210,19043,Clayton,Clayton County,Iowa,"1,000",0,0.0000
+48,449,01384010,48449,Titus,Titus County,Texas,"3,300","2,000",0.6061
+54,027,01718644,54027,Hampshire,Hampshire County,West Virginia,"1,000",0,0.0000
+37,125,01008573,37125,Moore,Moore County,North Carolina,"4,800","17,000",3.5417
+22,099,01629486,22099,St. Martin,St. Martin Parish,Louisiana,"5,000",500,0.1000
+01,133,00161592,01133,Winston,Winston County,Alabama,"1,000",500,0.5000
+12,117,00303665,12117,Seminole,Seminole County,Florida,"30,220","102,862",3.4038
+28,035,00695742,28035,Forrest,Forrest County,Mississippi,"1,000","1,000",1.0000
+26,065,01622975,26065,Ingham,Ingham County,Michigan,"17,000","67,350",3.9618
+20,177,00485051,20177,Shawnee,Shawnee County,Kansas,"8,150","6,700",0.8221
+27,061,00659476,27061,Itasca,Itasca County,Minnesota,0,500,100.0000
+08,073,00198152,08073,Lincoln,Lincoln County,Colorado,500,0,0.0000
+36,053,00974125,36053,Madison,Madison County,New York,"1,000","4,500",4.5000
+36,115,00974155,36115,Washington,Washington County,New York,500,0,0.0000
+18,081,00450365,18081,Johnson,Johnson County,Indiana,500,"1,000",2.0000
+01,121,00161586,01121,Talladega,Talladega County,Alabama,"1,000",0,0.0000
+19,021,00465200,19021,Buena Vista,Buena Vista County,Iowa,0,"1,000",100.0000
+19,129,00465253,19129,Mills,Mills County,Iowa,500,0,0.0000
+39,041,01074033,39041,Delaware,Delaware County,Ohio,"5,250","18,900",3.6000
+37,067,01008552,37067,Forsyth,Forsyth County,North Carolina,"4,300","69,132",16.0772
+32,510,00863219,32510,Carson City,Carson City,Nevada,"9,800","4,375",0.4464
+19,049,00465213,19049,Dallas,Dallas County,Iowa,"2,000","22,350",11.1750
+13,261,00343504,13261,Sumter,Sumter County,Georgia,0,500,100.0000
+45,007,01247981,45007,Anderson,Anderson County,South Carolina,"5,500","6,700",1.2182
+56,007,01605069,56007,Carbon,Carbon County,Wyoming,"16,800",0,0.0000
+17,177,01785076,17177,Stephenson,Stephenson County,Illinois,630,0,0.0000
+26,087,01622986,26087,Lapeer,Lapeer County,Michigan,"1,025","1,500",1.4634
+28,161,00695801,28161,Yalobusha,Yalobusha County,Mississippi,0,"5,735",100.0000
+04,003,00025442,04003,Cochise,Cochise County,Arizona,"1,150","7,300",6.3478
+06,071,00277300,06071,San Bernardino,San Bernardino County,California,"33,985","34,000",1.0004
+08,083,00198157,08083,Montezuma,Montezuma County,Colorado,0,500,100.0000
+19,125,00465251,19125,Marion,Marion County,Iowa,500,500,1.0000
+31,055,00835849,31055,Douglas,Douglas County,Nebraska,"14,325","76,475",5.3386
+40,057,01101816,40057,Harmon,Harmon County,Oklahoma,0,500,100.0000
+13,059,01672699,13059,Clarke,Clarke County,Georgia,"8,600","4,500",0.5233
+16,085,00399756,16085,Valley,Valley County,Idaho,0,"1,500",100.0000
+39,037,01074031,39037,Darke,Darke County,Ohio,"1,500",0,0.0000
+40,071,01101823,40071,Kay,Kay County,Oklahoma,"1,500",0,0.0000
+41,057,01135864,41057,Tillamook,Tillamook County,Oregon,0,"3,500",100.0000
+13,077,00326666,13077,Coweta,Coweta County,Georgia,"6,800","3,300",0.4853
+28,131,00695786,28131,Stone,Stone County,Mississippi,"1,000",0,0.0000
+06,013,01675903,06013,Contra Costa,Contra Costa County,California,"42,632","475,337",11.1498
+51,087,01480133,51087,Henrico,Henrico County,Virginia,"7,800","65,160",8.3538
+36,119,00974157,36119,Westchester,Westchester County,New York,"40,373","1,601,152",39.6590
+54,033,01718426,54033,Harrison,Harrison County,West Virginia,500,500,1.0000
+37,077,01008556,37077,Granville,Granville County,North Carolina,"1,000",500,0.5000
+09,009,00212798,09009,New Haven,New Haven County,Connecticut,"15,500","159,759",10.3070
+13,023,00347451,13023,Bleckley,Bleckley County,Georgia,"1,000",0,0.0000
+17,181,01785113,17181,Union,Union County,Illinois,"4,200",500,0.1190
+17,091,00424247,17091,Kankakee,Kankakee County,Illinois,"4,962","1,000",0.2015
+38,051,01034211,38051,McIntosh,McIntosh County,North Dakota,0,"1,200",100.0000
+37,185,01008593,37185,Warren,Warren County,North Carolina,0,"1,000",100.0000
+10,005,00217269,10005,Sussex,Sussex County,Delaware,"6,000","176,654",29.4423
+29,175,00758542,29175,Randolph,Randolph County,Missouri,"9,800",500,0.0510
+20,015,00484977,20015,Butler,Butler County,Kansas,"2,500","1,500",0.6000
+48,209,01383890,48209,Hays,Hays County,Texas,"11,300","17,075",1.5111
+26,105,01622995,26105,Mason,Mason County,Michigan,"2,676","3,800",1.4200
+45,013,01247984,45013,Beaufort,Beaufort County,South Carolina,"17,600","47,000",2.6705
+46,135,01266975,46135,Yankton,Yankton County,South Dakota,0,500,100.0000
+55,105,01581113,55105,Rock,Rock County,Wisconsin,0,"11,700",100.0000
+45,077,01248015,45077,Pickens,Pickens County,South Carolina,500,"5,500",11.0000
+53,013,01513273,53013,Columbia,Columbia County,Washington,"1,000",0,0.0000
+17,027,00424215,17027,Clinton,Clinton County,Illinois,0,500,100.0000
+28,121,00695781,28121,Rankin,Rankin County,Mississippi,"5,000","2,800",0.5600
+41,039,01135855,41039,Lane,Lane County,Oregon,"5,300","43,128",8.1374
+48,485,01384028,48485,Wichita,Wichita County,Texas,"15,300",0,0.0000
+26,155,01623018,26155,Shiawassee,Shiawassee County,Michigan,0,"3,827",100.0000
+12,007,00303634,12007,Bradford,Bradford County,Florida,0,500,100.0000
+28,039,00695744,28039,George,George County,Mississippi,0,"1,000",100.0000
+17,085,00424244,17085,Jo Daviess,Jo Daviess County,Illinois,0,500,100.0000
+18,059,00450357,18059,Hancock,Hancock County,Indiana,"3,500",0,0.0000
+48,329,01383950,48329,Midland,Midland County,Texas,"41,125","12,614",0.3067
+30,013,01719622,30013,Cascade,Cascade County,Montana,0,"1,500",100.0000
+17,199,01785215,17199,Williamson,Williamson County,Illinois,0,"7,600",100.0000
+30,029,01719611,30029,Flathead,Flathead County,Montana,"11,550","6,000",0.5195
+20,189,00485056,20189,Stevens,Stevens County,Kansas,"1,500",0,0.0000
+21,067,00516880,21067,Fayette,Fayette County,Kentucky,"11,800","41,000",3.4746
+46,013,01265785,46013,Brown,Brown County,South Dakota,500,0,0.0000
+47,181,01639798,47181,Wayne,Wayne County,Tennessee,500,0,0.0000
+42,097,01209186,42097,Northumberland,Northumberland County,Pennsylvania,"5,600",0,0.0000
+48,469,01384020,48469,Victoria,Victoria County,Texas,"1,500","7,616",5.0773
+26,147,01625033,26147,St. Clair,St. Clair County,Michigan,"3,630","4,000",1.1019
+31,173,00835908,31173,Thurston,Thurston County,Nebraska,0,500,100.0000
+50,015,01461764,50015,Lamoille,Lamoille County,Vermont,500,"7,100",14.2000
+51,067,01494434,51067,Franklin,Franklin County,Virginia,"7,100","6,450",0.9085
+53,037,01531926,53037,Kittitas,Kittitas County,Washington,"6,500","2,900",0.4462
+18,135,00446853,18135,Randolph,Randolph County,Indiana,"1,000",0,0.0000
+49,025,01448026,49025,Kane,Kane County,Utah,"1,000",0,0.0000
+55,023,01581071,55023,Crawford,Crawford County,Wisconsin,0,"2,400",100.0000
+01,071,00161561,01071,Jackson,Jackson County,Alabama,"1,500",500,0.3333
+20,045,00484992,20045,Douglas,Douglas County,Kansas,"7,600","21,727",2.8588
+21,059,00516876,21059,Daviess,Daviess County,Kentucky,500,"1,500",3.0000
+29,097,00758503,29097,Jasper,Jasper County,Missouri,"19,700",0,0.0000
+41,061,01164165,41061,Union,Union County,Oregon,"2,800",0,0.0000
+13,151,01671894,13151,Henry,Henry County,Georgia,500,"9,600",19.2000
+37,137,01023355,37137,Pamlico,Pamlico County,North Carolina,0,500,100.0000
+42,021,01213662,42021,Cambria,Cambria County,Pennsylvania,"1,000","8,100",8.1000
+26,093,01622989,26093,Livingston,Livingston County,Michigan,"3,500","22,932",6.5520
+08,001,00198116,08001,Adams,Adams County,Colorado,"17,600","11,500",0.6534
+42,069,01213675,42069,Lackawanna,Lackawanna County,Pennsylvania,"1,500","92,885",61.9233
+40,037,01101806,40037,Creek,Creek County,Oklahoma,"1,000","1,000",1.0000
+48,457,01384014,48457,Tyler,Tyler County,Texas,0,"1,000",100.0000
+40,125,01101850,40125,Pottawatomie,Pottawatomie County,Oklahoma,0,"1,500",100.0000
+09,013,00212668,09013,Tolland,Tolland County,Connecticut,"3,300","15,300",4.6364
+35,053,01702371,35053,Socorro,Socorro County,New Mexico,"2,100",500,0.2381
+12,031,00293656,12031,Duval,Duval County,Florida,"68,750","199,508",2.9019
+48,145,01383858,48145,Falls,Falls County,Texas,"3,000",0,0.0000
+21,113,00516903,21113,Jessamine,Jessamine County,Kentucky,"6,800","1,100",0.1618
+39,057,01074041,39057,Greene,Greene County,Ohio,"13,000","7,500",0.5769
+35,028,01702366,35028,Los Alamos,Los Alamos County,New Mexico,0,"5,300",100.0000
+02,122,01419972,02122,Kenai Peninsula,Kenai Peninsula Borough,Alaska,"3,500",500,0.1429
+01,003,00161527,01003,Baldwin,Baldwin County,Alabama,"15,770","13,100",0.8307
+36,049,00974123,36049,Lewis,Lewis County,New York,"2,500",0,0.0000
+18,077,00450363,18077,Jefferson,Jefferson County,Indiana,"1,000",0,0.0000
+51,019,01674818,51019,Bedford,Bedford County,Virginia,"3,500","17,000",4.8571
+42,131,01209192,42131,Wyoming,Wyoming County,Pennsylvania,0,"2,500",100.0000
+37,107,01008568,37107,Lenoir,Lenoir County,North Carolina,"2,700",0,0.0000
+18,167,00450398,18167,Vigo,Vigo County,Indiana,"4,300","3,300",0.7674
+18,039,00450348,18039,Elkhart,Elkhart County,Indiana,"8,000","1,000",0.1250
+48,303,01383937,48303,Lubbock,Lubbock County,Texas,"15,550","17,850",1.1479
+39,005,01074016,39005,Ashland,Ashland County,Ohio,"1,000","1,500",1.5000
+31,119,00835880,31119,Madison,Madison County,Nebraska,500,0,0.0000
+12,085,00308550,12085,Martin,Martin County,Florida,"26,200","84,700",3.2328
+13,085,00351312,13085,Dawson,Dawson County,Georgia,"1,500",0,0.0000
+13,167,00346664,13167,Johnson,Johnson County,Georgia,500,0,0.0000
+51,143,01480157,51143,Pittsylvania,Pittsylvania County,Virginia,0,"1,050",100.0000
+02,068,01419988,02068,Denali,Denali Borough,Alaska,0,"1,500",100.0000
+20,209,00485065,20209,Wyandotte,Wyandotte County,Kansas,"2,800",0,0.0000
+12,029,00295725,12029,Dixie,Dixie County,Florida,500,0,0.0000
+26,157,01623019,26157,Tuscola,Tuscola County,Michigan,"2,100","1,200",0.5714
+02,240,01419983,02240,Southeast Fairbanks,Southeast Fairbanks Census Area,Alaska,0,"1,000",100.0000
+22,097,01629479,22097,St. Landry,St. Landry Parish,Louisiana,500,500,1.0000
+47,055,01639746,47055,Giles,Giles County,Tennessee,"1,000",500,0.5000
+39,095,01074060,39095,Lucas,Lucas County,Ohio,"28,060","17,468",0.6225
+18,043,00450350,18043,Floyd,Floyd County,Indiana,630,"1,000",1.5873
+37,075,01008555,37075,Graham,Graham County,North Carolina,"1,000",0,0.0000
+53,061,01529222,53061,Snohomish,Snohomish County,Washington,"27,880","69,400",2.4892
+35,015,00936829,35015,Eddy,Eddy County,New Mexico,"6,550","1,500",0.2290
+51,197,01501379,51197,Wythe,Wythe County,Virginia,500,500,1.0000
+53,077,01531929,53077,Yakima,Yakima County,Washington,"13,830","7,300",0.5278
+05,143,00069905,05143,Washington,Washington County,Arkansas,"15,400","41,950",2.7240
+48,213,01383892,48213,Henderson,Henderson County,Texas,500,"7,045",14.0900
+55,035,01581077,55035,Eau Claire,Eau Claire County,Wisconsin,500,"3,000",6.0000
+48,471,01384021,48471,Walker,Walker County,Texas,"1,000",0,0.0000
+04,005,00025443,04005,Coconino,Coconino County,Arizona,"4,900","12,200",2.4898
+26,127,01623006,26127,Oceana,Oceana County,Michigan,0,"4,000",100.0000
+39,007,01074017,39007,Ashtabula,Ashtabula County,Ohio,"1,000","1,000",1.0000
+48,167,01383869,48167,Galveston,Galveston County,Texas,"32,200","23,000",0.7143
+39,135,01074080,39135,Preble,Preble County,Ohio,"1,000",0,0.0000
+39,079,01074052,39079,Jackson,Jackson County,Ohio,500,0,0.0000
+48,201,01383886,48201,Harris,Harris County,Texas,"353,699","1,202,197",3.3989
+25,017,00606935,25017,Middlesex,Middlesex County,Massachusetts,"84,717","1,797,103",21.2130
+48,115,01383843,48115,Dawson,Dawson County,Texas,500,500,1.0000
+36,069,00974133,36069,Ontario,Ontario County,New York,500,"1,562",3.1240
+20,121,00485025,20121,Miami,Miami County,Kansas,"2,500",0,0.0000
+13,091,00348116,13091,Dodge,Dodge County,Georgia,"1,000",0,0.0000
+36,023,00974110,36023,Cortland,Cortland County,New York,0,"1,000",100.0000
+26,161,01623021,26161,Washtenaw,Washtenaw County,Michigan,"5,800","182,225",31.4181
+48,371,01383971,48371,Pecos,Pecos County,Texas,"6,100",0,0.0000
+13,311,00326781,13311,White,White County,Georgia,0,"1,500",100.0000
+13,163,00345714,13163,Jefferson,Jefferson County,Georgia,0,500,100.0000
+55,083,01581102,55083,Oconto,Oconto County,Wisconsin,500,0,0.0000
+48,347,01383959,48347,Nacogdoches,Nacogdoches County,Texas,"1,000",500,0.5000
+44,009,01219782,44009,Washington,Washington County,Rhode Island,"5,900","35,600",6.0339
+53,047,01531928,53047,Okanogan,Okanogan County,Washington,500,"8,300",16.6000
+53,063,01529225,53063,Spokane,Spokane County,Washington,"24,100","36,150",1.5000
+34,017,00882278,34017,Hudson,Hudson County,New Jersey,"9,000","97,730",10.8589
+39,151,01065576,39151,Stark,Stark County,Ohio,"12,228","11,050",0.9037
+48,187,01383879,48187,Guadalupe,Guadalupe County,Texas,"18,100","2,500",0.1381
+53,029,01513272,53029,Island,Island County,Washington,"9,400","24,300",2.5851
+54,037,01550025,54037,Jefferson,Jefferson County,West Virginia,"2,000","10,676",5.3380
+51,153,01480161,51153,Prince William,Prince William County,Virginia,"10,500","40,755",3.8814
+42,029,01209174,42029,Chester,Chester County,Pennsylvania,"44,150","330,548",7.4869
+47,145,01639785,47145,Roane,Roane County,Tennessee,"2,500",0,0.0000
+53,009,01531341,53009,Clallam,Clallam County,Washington,"1,000","15,500",15.5000
+53,065,01531930,53065,Stevens,Stevens County,Washington,0,500,100.0000
+28,095,00695771,28095,Monroe,Monroe County,Mississippi,"1,000",0,0.0000
+12,033,00295737,12033,Escambia,Escambia County,Florida,"15,100","37,006",2.4507
+48,439,01384005,48439,Tarrant,Tarrant County,Texas,"95,625","158,655",1.6591
+24,033,01714670,24033,Prince George's,Prince George's County,Maryland,"4,000","88,644",22.1610
+48,239,01383905,48239,Jackson,Jackson County,Texas,0,"5,600",100.0000
+39,099,01074062,39099,Mahoning,Mahoning County,Ohio,"1,500","7,800",5.2000
+01,087,00161569,01087,Macon,Macon County,Alabama,"2,800",0,0.0000
+17,089,00424246,17089,Kane,Kane County,Illinois,"12,250","24,350",1.9878
+06,017,00277273,06017,El Dorado,El Dorado County,California,"12,300","12,800",1.0407
+45,055,01248007,45055,Kershaw,Kershaw County,South Carolina,500,"1,000",2.0000
+41,019,01135849,41019,Douglas,Douglas County,Oregon,"9,625","2,000",0.2078
+42,089,01209184,42089,Monroe,Monroe County,Pennsylvania,"4,490","6,300",1.4031
+22,077,00559449,22077,Pointe Coupee,Pointe Coupee Parish,Louisiana,0,500,100.0000
+31,067,00835855,31067,Gage,Gage County,Nebraska,0,500,100.0000
+01,115,00164997,01115,St. Clair,St. Clair County,Alabama,500,"1,000",2.0000
+13,095,00351259,13095,Dougherty,Dougherty County,Georgia,"3,800","1,000",0.2632
+18,061,00451677,18061,Harrison,Harrison County,Indiana,0,"1,000",100.0000
+16,017,00395158,16017,Bonner,Bonner County,Idaho,"6,350","16,200",2.5512
+13,047,00353230,13047,Catoosa,Catoosa County,Georgia,0,"2,800",100.0000
+23,027,00581299,23027,Waldo,Waldo County,Maine,500,"6,000",12.0000
+24,027,01709077,24027,Howard,Howard County,Maryland,"18,717","150,194",8.0245
+49,035,01448031,49035,Salt Lake,Salt Lake County,Utah,"34,100","150,460",4.4123
+09,003,00212338,09003,Hartford,Hartford County,Connecticut,"14,300","175,576",12.2780
+09,015,00212801,09015,Windham,Windham County,Connecticut,"2,000","3,000",1.5000
+12,087,00295759,12087,Monroe,Monroe County,Florida,"20,550","69,500",3.3820
+39,157,01074090,39157,Tuscarawas,Tuscarawas County,Ohio,"4,000",500,0.1250
+36,085,00974141,36085,Richmond,Richmond County,New York,"9,550","21,800",2.2827
+39,071,01074048,39071,Highland,Highland County,Ohio,"2,000","1,400",0.7000
+45,045,01245489,45045,Greenville,Greenville County,South Carolina,"63,460","54,918",0.8654
+46,085,01265789,46085,Lyman,Lyman County,South Dakota,"2,000",0,0.0000
+55,121,01581120,55121,Trempealeau,Trempealeau County,Wisconsin,0,"2,000",100.0000
+06,113,00277321,06113,Yolo,Yolo County,California,"6,500","91,178",14.0274
+49,041,01448034,49041,Sevier,Sevier County,Utah,"1,000",0,0.0000
+51,036,01480109,51036,Charles City,Charles City County,Virginia,500,0,0.0000
+38,105,01035306,38105,Williams,Williams County,North Dakota,"4,000",0,0.0000
+38,017,01034226,38017,Cass,Cass County,North Dakota,"5,000","1,500",0.3000
+19,103,00465240,19103,Johnson,Johnson County,Iowa,"10,900","32,550",2.9862
+02,090,01419969,02090,Fairbanks North Star,Fairbanks North Star Borough,Alaska,"2,500","2,000",0.8000
+21,101,00516897,21101,Henderson,Henderson County,Kentucky,0,"1,700",100.0000
+28,105,00695775,28105,Oktibbeha,Oktibbeha County,Mississippi,"8,935",850,0.0951
+24,023,01711058,24023,Garrett,Garrett County,Maryland,0,"1,500",100.0000
+22,119,00559567,22119,Webster,Webster Parish,Louisiana,"2,000",0,0.0000
+26,059,01622972,26059,Hillsdale,Hillsdale County,Michigan,"1,500",0,0.0000
+46,033,01265788,46033,Custer,Custer County,South Dakota,0,"1,200",100.0000
+33,013,00873180,33013,Merrimack,Merrimack County,New Hampshire,"2,500","27,249",10.8996
+42,133,01209193,42133,York,York County,Pennsylvania,"6,648","9,500",1.4290
+37,161,01008584,37161,Rutherford,Rutherford County,North Carolina,"4,860","1,500",0.3086
+01,043,00161547,01043,Cullman,Cullman County,Alabama,0,"1,100",100.0000
+13,097,01686467,13097,Douglas,Douglas County,Georgia,"2,500","7,100",2.8400
+31,003,00835824,31003,Antelope,Antelope County,Nebraska,0,"3,000",100.0000
+56,005,01605068,56005,Campbell,Campbell County,Wyoming,500,0,0.0000
+13,211,00346008,13211,Morgan,Morgan County,Georgia,"1,000","12,550",12.5500
+05,037,00066848,05037,Cross,Cross County,Arkansas,500,0,0.0000
+22,093,01629464,22093,St. James,St. James Parish,Louisiana,0,"1,000",100.0000
+06,115,00277322,06115,Yuba,Yuba County,California,"3,300",0,0.0000
+01,117,00161584,01117,Shelby,Shelby County,Alabama,"22,225","25,957",1.1679
+08,091,00198161,08091,Ouray,Ouray County,Colorado,"1,000",0,0.0000
+35,009,00933053,35009,Curry,Curry County,New Mexico,"3,500",0,0.0000
+37,135,01008576,37135,Orange,Orange County,North Carolina,"4,800","111,604",23.2508
+18,131,00446852,18131,Pulaski,Pulaski County,Indiana,"2,800",0,0.0000
+26,019,01622952,26019,Benzie,Benzie County,Michigan,"1,500","1,000",0.6667
+36,029,00974113,36029,Erie,Erie County,New York,"11,525","58,776",5.0999
+24,031,01712500,24031,Montgomery,Montgomery County,Maryland,"76,827","2,566,421",33.4052
+51,013,01480097,51013,Arlington,Arlington County,Virginia,"35,400","631,560",17.8407
+29,183,00758546,29183,St. Charles,St. Charles County,Missouri,"8,400","21,919",2.6094
+06,069,00277299,06069,San Benito,San Benito County,California,"2,000","2,000",1.0000
+24,035,00596089,24035,Queen Anne's,Queen Anne's County,Maryland,"2,500","4,000",1.6000
+13,031,00350302,13031,Bulloch,Bulloch County,Georgia,"1,000","2,200",2.2000
+21,071,00516882,21071,Floyd,Floyd County,Kentucky,500,500,1.0000
+37,049,01026123,37049,Craven,Craven County,North Carolina,"13,600","5,600",0.4118
+41,009,01135847,41009,Columbia,Columbia County,Oregon,0,"1,000",100.0000
+45,041,01248001,45041,Florence,Florence County,South Carolina,"4,000","14,040",3.5100
+49,053,01448040,49053,Washington,Washington County,Utah,"10,600","8,800",0.8302
+18,013,00451684,18013,Brown,Brown County,Indiana,0,500,100.0000
+18,019,00450340,18019,Clark,Clark County,Indiana,"4,300",0,0.0000
+21,021,00516857,21021,Boyle,Boyle County,Kentucky,0,500,100.0000
+48,089,01383830,48089,Colorado,Colorado County,Texas,"8,000",0,0.0000
+17,063,00424233,17063,Grundy,Grundy County,Illinois,"1,000",0,0.0000
+48,497,01384034,48497,Wise,Wise County,Texas,"8,303","2,000",0.2409
+02,050,01419966,02050,Bethel,Bethel Census Area,Alaska,0,"2,000",100.0000
+13,169,00345367,13169,Jones,Jones County,Georgia,500,0,0.0000
+13,135,01688166,13135,Gwinnett,Gwinnett County,Georgia,"27,150","46,950",1.7293
+55,095,01581108,55095,Polk,Polk County,Wisconsin,500,"1,500",3.0000
+55,045,01581082,55045,Green,Green County,Wisconsin,0,500,100.0000
+36,079,00974138,36079,Putnam,Putnam County,New York,"4,500","38,050",8.4556
+51,700,01498555,51700,Newport News,Newport News city,Virginia,"1,500","6,800",4.5333
+08,011,00198121,08011,Bent,Bent County,Colorado,500,0,0.0000
+40,065,01101820,40065,Jackson,Jackson County,Oklahoma,777,"1,000",1.2870
+48,173,01383872,48173,Glasscock,Glasscock County,Texas,"2,000",0,0.0000
+05,047,00066853,05047,Franklin,Franklin County,Arkansas,500,0,0.0000
+40,093,01101831,40093,Major,Major County,Oklahoma,"2,000",0,0.0000
+47,125,01639777,47125,Montgomery,Montgomery County,Tennessee,"11,719","3,500",0.2987
+41,027,01155131,41027,Hood River,Hood River County,Oregon,0,"11,200",100.0000
+19,197,00465287,19197,Wright,Wright County,Iowa,0,"1,000",100.0000
+48,419,01383995,48419,Shelby,Shelby County,Texas,"1,000",0,0.0000
+51,017,01673638,51017,Bath,Bath County,Virginia,0,"1,000",100.0000
+22,075,00558125,22075,Plaquemines,Plaquemines Parish,Louisiana,0,"2,800",100.0000
+28,115,00695803,28115,Pontotoc,Pontotoc County,Mississippi,"2,000",0,0.0000
+21,029,00516861,21029,Bullitt,Bullitt County,Kentucky,"2,000","1,000",0.5000
+48,093,01383832,48093,Comanche,Comanche County,Texas,"2,800",0,0.0000
+27,021,00659456,27021,Cass,Cass County,Minnesota,"1,000",0,0.0000
+08,007,00198119,08007,Archuleta,Archuleta County,Colorado,"3,500","4,800",1.3714
+55,087,01581104,55087,Outagamie,Outagamie County,Wisconsin,"4,800","15,550",3.2396
+37,195,01008596,37195,Wilson,Wilson County,North Carolina,"7,000","3,000",0.4286
+30,039,01719605,30039,Granite,Granite County,Montana,500,0,0.0000
+48,053,01383812,48053,Burnet,Burnet County,Texas,"2,000","9,400",4.7000
+17,109,01784729,17109,McDonough,McDonough County,Illinois,0,"3,100",100.0000
+05,067,00066861,05067,Jackson,Jackson County,Arkansas,0,"1,000",100.0000
+22,079,00559460,22079,Rapides,Rapides Parish,Louisiana,"5,500","6,300",1.1455
+31,111,00835877,31111,Lincoln,Lincoln County,Nebraska,"1,000",0,0.0000
+48,067,01383819,48067,Cass,Cass County,Texas,"5,220",0,0.0000
+47,079,01639755,47079,Henry,Henry County,Tennessee,"1,500",0,0.0000
+51,840,01789077,51840,Winchester,Winchester city,Virginia,0,"6,600",100.0000
+37,061,01026132,37061,Duplin,Duplin County,North Carolina,500,0,0.0000
+37,087,01008561,37087,Haywood,Haywood County,North Carolina,500,"5,050",10.1000
+27,037,00659464,27037,Dakota,Dakota County,Minnesota,"8,100","31,050",3.8333
+55,001,01581060,55001,Adams,Adams County,Wisconsin,500,0,0.0000
+29,045,00758477,29045,Clark,Clark County,Missouri,"3,800",0,0.0000
+21,015,00516854,21015,Boone,Boone County,Kentucky,"4,000","3,500",0.8750
+28,137,00695789,28137,Tate,Tate County,Mississippi,0,600,100.0000
+26,057,01622971,26057,Gratiot,Gratiot County,Michigan,0,"2,000",100.0000
+56,025,01605077,56025,Natrona,Natrona County,Wyoming,"2,000","9,100",4.5500
+13,321,00343365,13321,Worth,Worth County,Georgia,500,0,0.0000
+18,109,00450375,18109,Morgan,Morgan County,Indiana,0,"3,500",100.0000
+48,139,01383856,48139,Ellis,Ellis County,Texas,"1,000","1,000",1.0000
+12,035,00308547,12035,Flagler,Flagler County,Florida,"3,500","7,500",2.1429
+28,077,00695762,28077,Lawrence,Lawrence County,Mississippi,0,"3,800",100.0000
+17,073,00424238,17073,Henry,Henry County,Illinois,"1,000",0,0.0000
+41,041,01135856,41041,Lincoln,Lincoln County,Oregon,0,"7,000",100.0000
+23,031,00581301,23031,York,York County,Maine,"2,000","24,220",12.1100
+13,231,00346482,13231,Pike,Pike County,Georgia,"1,000",0,0.0000
+13,259,00347360,13259,Stewart,Stewart County,Georgia,0,"2,000",100.0000
+34,025,00882910,34025,Monmouth,Monmouth County,New Jersey,"35,200","111,725",3.1740
+05,021,00063759,05021,Clay,Clay County,Arkansas,505,"1,000",1.9802
+05,045,00066852,05045,Faulkner,Faulkner County,Arkansas,"3,869","4,000",1.0339
+40,041,01101808,40041,Delaware,Delaware County,Oklahoma,500,0,0.0000
+17,061,00424232,17061,Greene,Greene County,Illinois,0,500,100.0000
+27,075,00659484,27075,Lake,Lake County,Minnesota,0,"1,500",100.0000
+13,285,01673298,13285,Troup,Troup County,Georgia,"1,000","1,000",1.0000
+06,023,01681908,06023,Humboldt,Humboldt County,California,"7,000","6,500",0.9286
+47,043,01639740,47043,Dickson,Dickson County,Tennessee,"22,200",500,0.0225
+27,003,00659447,27003,Anoka,Anoka County,Minnesota,"8,860","9,575",1.0807
+47,059,01639747,47059,Greene,Greene County,Tennessee,0,500,100.0000
+18,141,00452855,18141,St. Joseph,St. Joseph County,Indiana,"6,150","41,250",6.7073
+23,019,00581295,23019,Penobscot,Penobscot County,Maine,500,"5,050",10.1000
+24,041,00592947,24041,Talbot,Talbot County,Maryland,"10,200","20,500",2.0098
+06,065,00277297,06065,Riverside,Riverside County,California,"62,675","133,725",2.1336
+05,005,00069895,05005,Baxter,Baxter County,Arkansas,"2,250",0,0.0000
+19,169,00465273,19169,Story,Story County,Iowa,"1,000","23,300",23.3000
+51,049,01494109,51049,Cumberland,Cumberland County,Virginia,0,500,100.0000
+45,085,01244717,45085,Sumter,Sumter County,South Carolina,500,"2,600",5.2000
+06,029,02054176,06029,Kern,Kern County,California,"26,862","20,821",0.7751
+48,097,01383834,48097,Cooke,Cooke County,Texas,"1,000","1,000",1.0000
+45,075,01248014,45075,Orangeburg,Orangeburg County,South Carolina,0,500,100.0000
+27,099,00659495,27099,Mower,Mower County,Minnesota,0,"5,600",100.0000
+44,007,01219781,44007,Providence,Providence County,Rhode Island,"10,380","122,089",11.7619
+29,161,00758535,29161,Phelps,Phelps County,Missouri,0,500,100.0000
+28,117,00695779,28117,Prentiss,Prentiss County,Mississippi,"1,500","2,800",1.8667
+48,491,01384031,48491,Williamson,Williamson County,Texas,"36,147","27,600",0.7635
+42,025,01213664,42025,Carbon,Carbon County,Pennsylvania,"2,000",500,0.2500
+45,083,01248592,45083,Spartanburg,Spartanburg County,South Carolina,"15,100","6,695",0.4434
+55,073,01581096,55073,Marathon,Marathon County,Wisconsin,"4,500","4,000",0.8889
+42,013,01213659,42013,Blair,Blair County,Pennsylvania,"4,000","4,750",1.1875
+29,009,00758459,29009,Barry,Barry County,Missouri,"2,800",0,0.0000
+27,123,00659507,27123,Ramsey,Ramsey County,Minnesota,"29,639","115,470",3.8959
+32,019,00858645,32019,Lyon,Lyon County,Nevada,"20,500",0,0.0000
+12,071,00295758,12071,Lee,Lee County,Florida,"96,895","137,473",1.4188
+41,033,01155133,41033,Josephine,Josephine County,Oregon,"6,800","2,000",0.2941
+31,153,00835898,31153,Sarpy,Sarpy County,Nebraska,"2,500","2,500",1.0000
+17,157,01784967,17157,Randolph,Randolph County,Illinois,500,0,0.0000
+23,011,00581291,23011,Kennebec,Kennebec County,Maine,"1,500","9,000",6.0000
+35,041,01702369,35041,Roosevelt,Roosevelt County,New Mexico,"1,000",0,0.0000
+42,111,01209188,42111,Somerset,Somerset County,Pennsylvania,"1,000","2,500",2.5000
+51,191,01498359,51191,Washington,Washington County,Virginia,"10,499","3,500",0.3334
+37,081,01008558,37081,Guilford,Guilford County,North Carolina,"24,430","44,072",1.8040
+16,001,00395066,16001,Ada,Ada County,Idaho,"23,515","95,300",4.0527
+40,039,01101807,40039,Custer,Custer County,Oklahoma,0,"1,008",100.0000
+39,101,01074063,39101,Marion,Marion County,Ohio,"1,000",500,0.5000
+17,203,01785231,17203,Woodford,Woodford County,Illinois,500,500,1.0000
+13,245,00358024,13245,Richmond,Richmond County,Georgia,"4,000","5,100",1.2750
+01,107,00161580,01107,Pickens,Pickens County,Alabama,0,500,100.0000
+08,107,00198169,08107,Routt,Routt County,Colorado,750,"24,700",32.9333
+34,035,00882234,34035,Somerset,Somerset County,New Jersey,"26,050","125,170",4.8050
+06,011,01675902,06011,Colusa,Colusa County,California,"3,000","3,300",1.1000
+17,087,00424245,17087,Johnson,Johnson County,Illinois,0,954,100.0000
+16,031,00395698,16031,Cassia,Cassia County,Idaho,500,0,0.0000
+27,059,00659475,27059,Isanti,Isanti County,Minnesota,"3,500","2,500",0.7143
+42,049,01209178,42049,Erie,Erie County,Pennsylvania,"5,250","29,950",5.7048
+48,467,01384019,48467,Van Zandt,Van Zandt County,Texas,"1,000","1,000",1.0000
+51,161,01480165,51161,Roanoke,Roanoke County,Virginia,"5,800","12,800",2.2069
+51,015,01480098,51015,Augusta,Augusta County,Virginia,0,"2,000",100.0000
+21,161,00516924,21161,Mason,Mason County,Kentucky,"5,600","2,000",0.3571
+48,129,01383850,48129,Donley,Donley County,Texas,500,0,0.0000
+12,005,00295738,12005,Bay,Bay County,Florida,"29,900","10,800",0.3612
+01,077,00161564,01077,Lauderdale,Lauderdale County,Alabama,"4,000","3,800",0.9500
+17,051,00424227,17051,Fayette,Fayette County,Illinois,"1,500",0,0.0000
+13,305,00350608,13305,Wayne,Wayne County,Georgia,"1,000",0,0.0000
+40,109,01101842,40109,Oklahoma,Oklahoma County,Oklahoma,"46,505","51,000",1.0967
+40,069,01101822,40069,Johnston,Johnston County,Oklahoma,"1,000",0,0.0000
+37,099,01008566,37099,Jackson,Jackson County,North Carolina,"4,800",650,0.1354
+49,043,01448035,49043,Summit,Summit County,Utah,"6,020","113,540",18.8605
+19,191,00465284,19191,Winneshiek,Winneshiek County,Iowa,0,"3,300",100.0000
+54,087,01550050,54087,Roane,Roane County,West Virginia,"6,600",0,0.0000
+27,159,00659524,27159,Wadena,Wadena County,Minnesota,0,"1,000",100.0000
+17,201,01785216,17201,Winnebago,Winnebago County,Illinois,"6,630","15,490",2.3363
+04,007,00040471,04007,Gila,Gila County,Arizona,"1,000","2,800",2.8000
+24,045,01668606,24045,Wicomico,Wicomico County,Maryland,0,"7,700",100.0000
+37,097,01008565,37097,Iredell,Iredell County,North Carolina,"8,300","2,022",0.2436
+51,083,01496705,51083,Halifax,Halifax County,Virginia,500,0,0.0000
+37,091,01026127,37091,Hertford,Hertford County,North Carolina,"1,000",600,0.6000
+36,057,00974127,36057,Montgomery,Montgomery County,New York,0,600,100.0000
+53,073,01529224,53073,Whatcom,Whatcom County,Washington,"18,875","20,200",1.0702
+34,029,00882279,34029,Ocean,Ocean County,New Jersey,"10,887","38,750",3.5593
+40,031,01101803,40031,Comanche,Comanche County,Oklahoma,"1,000",0,0.0000
+48,253,01383912,48253,Jones,Jones County,Texas,"1,000",0,0.0000
+48,185,01383878,48185,Grimes,Grimes County,Texas,"1,000",0,0.0000
+26,049,01622967,26049,Genesee,Genesee County,Michigan,"6,475","4,000",0.6178
+17,141,01784894,17141,Ogle,Ogle County,Illinois,"1,000",0,0.0000
+55,005,01581062,55005,Barron,Barron County,Wisconsin,500,0,0.0000
+27,157,00659523,27157,Wabasha,Wabasha County,Minnesota,0,500,100.0000
+06,015,01682074,06015,Del Norte,Del Norte County,California,"4,200",500,0.1190
+53,007,01531932,53007,Chelan,Chelan County,Washington,"10,180","6,600",0.6483
+26,141,01623013,26141,Presque Isle,Presque Isle County,Michigan,0,"1,000",100.0000
+40,027,01101801,40027,Cleveland,Cleveland County,Oklahoma,"3,500","12,271",3.5060
+36,105,00974150,36105,Sullivan,Sullivan County,New York,0,"1,000",100.0000
+37,149,01008579,37149,Polk,Polk County,North Carolina,500,"9,000",18.0000
+37,165,01008585,37165,Scotland,Scotland County,North Carolina,"1,000",0,0.0000
+37,085,01008560,37085,Harnett,Harnett County,North Carolina,"2,500","4,500",1.8000
+37,105,01008567,37105,Lee,Lee County,North Carolina,"4,000","5,300",1.3250
+40,145,01101860,40145,Wagoner,Wagoner County,Oklahoma,"2,000",0,0.0000
+05,003,00063756,05003,Ashley,Ashley County,Arkansas,"3,000",0,0.0000
+27,163,00659526,27163,Washington,Washington County,Minnesota,"13,907","29,560",2.1255
+51,740,01498556,51740,Portsmouth,Portsmouth city,Virginia,0,"3,000",100.0000
+42,051,01209179,42051,Fayette,Fayette County,Pennsylvania,500,"1,000",2.0000
+54,023,01697238,54023,Grant,Grant County,West Virginia,500,500,1.0000
+51,171,01673918,51171,Shenandoah,Shenandoah County,Virginia,0,"6,800",100.0000
+17,139,01784885,17139,Moultrie,Moultrie County,Illinois,500,0,0.0000
+21,107,00516900,21107,Hopkins,Hopkins County,Kentucky,"4,000",0,0.0000
+27,035,00659463,27035,Crow Wing,Crow Wing County,Minnesota,"2,000","1,000",0.5000
+04,009,00025444,04009,Graham,Graham County,Arizona,"1,000",0,0.0000
+13,101,00348092,13101,Echols,Echols County,Georgia,"4,075",0,0.0000
+12,065,00295733,12065,Jefferson,Jefferson County,Florida,"2,800",0,0.0000
+28,005,00695727,28005,Amite,Amite County,Mississippi,500,0,0.0000
+26,025,01622955,26025,Calhoun,Calhoun County,Michigan,"1,000","2,000",2.0000
+08,123,00198177,08123,Weld,Weld County,Colorado,"15,157","11,590",0.7647
+40,009,01101792,40009,Beckham,Beckham County,Oklahoma,"2,500",0,0.0000
+06,049,00277289,06049,Modoc,Modoc County,California,500,0,0.0000
+19,153,00465265,19153,Polk,Polk County,Iowa,"18,605","54,164",2.9113
+13,179,00357095,13179,Liberty,Liberty County,Georgia,"1,000",0,0.0000
+47,187,01639801,47187,Williamson,Williamson County,Tennessee,"41,900","82,950",1.9797
+56,021,01605075,56021,Laramie,Laramie County,Wyoming,"9,050","15,100",1.6685
+53,003,01533502,53003,Asotin,Asotin County,Washington,0,"4,050",100.0000
+17,017,00424210,17017,Cass,Cass County,Illinois,500,0,0.0000
+13,247,00357592,13247,Rockdale,Rockdale County,Georgia,0,"6,800",100.0000
+40,049,01101812,40049,Garvin,Garvin County,Oklahoma,"2,000",0,0.0000
+35,045,00936844,35045,San Juan,San Juan County,New Mexico,"7,100","13,900",1.9577
+36,073,00974135,36073,Orleans,Orleans County,New York,0,"1,000",100.0000
+06,019,00277274,06019,Fresno,Fresno County,California,"32,100","21,150",0.6589
+01,005,00161528,01005,Barbour,Barbour County,Alabama,500,500,1.0000
+48,111,01383841,48111,Dallam,Dallam County,Texas,"5,700",0,0.0000
+17,167,01785010,17167,Sangamon,Sangamon County,Illinois,"6,500","20,772",3.1957
+47,035,01639736,47035,Cumberland,Cumberland County,Tennessee,"3,500","1,000",0.2857
+26,137,01623011,26137,Otsego,Otsego County,Michigan,"3,500",0,0.0000
+53,019,01531821,53019,Ferry,Ferry County,Washington,0,500,100.0000
+35,027,00929116,35027,Lincoln,Lincoln County,New Mexico,"8,500",500,0.0588
+40,021,01101798,40021,Cherokee,Cherokee County,Oklahoma,"2,800",0,0.0000
+48,231,01383901,48231,Hunt,Hunt County,Texas,0,500,100.0000
+48,499,01384035,48499,Wood,Wood County,Texas,500,"2,500",5.0000
+40,113,01101844,40113,Osage,Osage County,Oklahoma,"2,500",0,0.0000
+26,107,01622996,26107,Mecosta,Mecosta County,Michigan,"1,000",0,0.0000
+21,195,00516944,21195,Pike,Pike County,Kentucky,"2,000",500,0.2500
+37,035,01008543,37035,Catawba,Catawba County,North Carolina,"6,300","6,100",0.9683
+17,179,01785094,17179,Tazewell,Tazewell County,Illinois,500,0,0.0000
+05,135,00069183,05135,Sharp,Sharp County,Arkansas,0,"1,000",100.0000
+08,069,00198150,08069,Larimer,Larimer County,Colorado,"19,530","63,116",3.2317
+27,131,00659511,27131,Rice,Rice County,Minnesota,"2,500","1,500",0.6000
+29,219,00758562,29219,Warren,Warren County,Missouri,500,0,0.0000
+21,227,00516960,21227,Warren,Warren County,Kentucky,"1,000","3,900",3.9000
+22,017,00558458,22017,Caddo,Caddo Parish,Louisiana,"5,130","8,600",1.6764
+46,121,01266989,46121,Todd,Todd County,South Dakota,"1,500",0,0.0000
+19,127,00465252,19127,Marshall,Marshall County,Iowa,0,"1,500",100.0000
+40,141,01101858,40141,Tillman,Tillman County,Oklahoma,0,"1,000",100.0000
+37,113,01025833,37113,Macon,Macon County,North Carolina,"1,500","3,000",2.0000
+21,105,00516899,21105,Hickman,Hickman County,Kentucky,"1,000",0,0.0000
+01,061,00161556,01061,Geneva,Geneva County,Alabama,500,0,0.0000
+17,099,00422247,17099,LaSalle,LaSalle County,Illinois,"1,500","5,900",3.9333
+19,051,00465214,19051,Davis,Davis County,Iowa,0,"1,000",100.0000
+55,081,01581101,55081,Monroe,Monroe County,Wisconsin,"1,000",0,0.0000
+37,143,01025841,37143,Perquimans,Perquimans County,North Carolina,500,"1,000",2.0000
+02,170,01419976,02170,Matanuska-Susitna,Matanuska-Susitna Borough,Alaska,"11,630",500,0.0430
+18,035,00450347,18035,Delaware,Delaware County,Indiana,"2,000",500,0.2500
+12,075,00295724,12075,Levy,Levy County,Florida,"1,000","5,300",5.3000
+28,045,00711756,28045,Hancock,Hancock County,Mississippi,"2,000","2,800",1.4000
+47,093,01639761,47093,Knox,Knox County,Tennessee,"28,430","63,215",2.2235
+23,017,00581294,23017,Oxford,Oxford County,Maine,"3,800","6,100",1.6053
+29,095,00758502,29095,Jackson,Jackson County,Missouri,"12,460","79,206",6.3568
+21,145,00516925,21145,McCracken,McCracken County,Kentucky,0,"1,000",100.0000
+46,125,01265770,46125,Turner,Turner County,South Dakota,"1,500",0,0.0000
+47,029,01639734,47029,Cocke,Cocke County,Tennessee,500,"1,200",2.4000
+47,071,01639751,47071,Hardin,Hardin County,Tennessee,750,0,0.0000
+45,067,01248010,45067,Marion,Marion County,South Carolina,"1,000",500,0.5000
+27,145,00659517,27145,Stearns,Stearns County,Minnesota,"2,800",500,0.1786
+31,155,00835899,31155,Saunders,Saunders County,Nebraska,0,500,100.0000
+27,141,00659515,27141,Sherburne,Sherburne County,Minnesota,"9,900","1,500",0.1515
+47,025,01639733,47025,Claiborne,Claiborne County,Tennessee,0,"1,000",100.0000
+48,337,01383954,48337,Montague,Montague County,Texas,500,0,0.0000
+55,101,01581111,55101,Racine,Racine County,Wisconsin,"1,500","9,000",6.0000
+55,115,01581117,55115,Shawano,Shawano County,Wisconsin,"1,000",0,0.0000
+40,083,01101829,40083,Logan,Logan County,Oklahoma,"3,500","5,300",1.5143
+36,065,00974131,36065,Oneida,Oneida County,New York,"2,500","13,000",5.2000
+08,065,00198149,08065,Lake,Lake County,Colorado,"1,000",0,0.0000
+40,121,01101848,40121,Pittsburg,Pittsburg County,Oklahoma,0,500,100.0000
+33,003,00873175,33003,Carroll,Carroll County,New Hampshire,"3,000","11,870",3.9567
+27,079,00659485,27079,Le Sueur,Le Sueur County,Minnesota,700,0,0.0000
+53,017,01531818,53017,Douglas,Douglas County,Washington,0,"1,700",100.0000
+36,009,00974103,36009,Cattaraugus,Cattaraugus County,New York,0,"6,300",100.0000
+06,039,00277284,06039,Madera,Madera County,California,"3,800","6,000",1.5789
+56,031,01605080,56031,Platte,Platte County,Wyoming,500,0,0.0000
+37,071,01008554,37071,Gaston,Gaston County,North Carolina,0,"10,400",100.0000
+37,101,01026327,37101,Johnston,Johnston County,North Carolina,"1,750","17,000",9.7143
+06,085,00277307,06085,Santa Clara,Santa Clara County,California,"91,330","1,537,153",16.8308
+45,019,01252740,45019,Charleston,Charleston County,South Carolina,"27,100","435,475",16.0692
+53,005,01513302,53005,Benton,Benton County,Washington,"13,540","19,100",1.4106
+29,001,00765805,29001,Adair,Adair County,Missouri,0,500,100.0000
+39,043,01074034,39043,Erie,Erie County,Ohio,"1,500","3,500",2.3333
+17,183,01785114,17183,Vermilion,Vermilion County,Illinois,"1,500",0,0.0000
+29,189,00758549,29189,St. Louis,St. Louis County,Missouri,"55,100","450,991",8.1850
+06,103,01692767,06103,Tehama,Tehama County,California,"3,000","4,000",1.3333
+55,025,01581072,55025,Dane,Dane County,Wisconsin,"27,700","144,517",5.2172
+37,167,01025844,37167,Stanly,Stanly County,North Carolina,0,"5,550",100.0000
+47,143,01639784,47143,Rhea,Rhea County,Tennessee,"1,500","1,000",0.6667
+24,039,00596907,24039,Somerset,Somerset County,Maryland,500,"1,000",2.0000
+21,143,00516918,21143,Lyon,Lyon County,Kentucky,0,500,100.0000
+48,081,01383826,48081,Coke,Coke County,Texas,"1,019",0,0.0000
+26,069,01622977,26069,Iosco,Iosco County,Michigan,0,500,100.0000
+13,299,00357722,13299,Ware,Ware County,Georgia,0,"1,000",100.0000
+22,051,00558027,22051,Jefferson,Jefferson Parish,Louisiana,"5,500","71,800",13.0545
+22,103,01629503,22103,St. Tammany,St. Tammany Parish,Louisiana,"20,979","17,000",0.8103
+22,023,00558488,22023,Cameron,Cameron Parish,Louisiana,"6,080",0,0.0000
+39,027,01074026,39027,Clinton,Clinton County,Ohio,"3,520","1,000",0.2841
+27,137,00662850,27137,St. Louis,St. Louis County,Minnesota,"19,237","7,100",0.3691
+39,093,01074059,39093,Lorain,Lorain County,Ohio,"3,000","6,200",2.0667
+19,015,00465197,19015,Boone,Boone County,Iowa,"1,250","11,100",8.8800
+48,373,01383972,48373,Polk,Polk County,Texas,500,"10,600",21.2000
+24,025,01698178,24025,Harford,Harford County,Maryland,"5,630","26,464",4.7005
+45,037,01247999,45037,Edgefield,Edgefield County,South Carolina,500,0,0.0000
+51,001,01480091,51001,Accomack,Accomack County,Virginia,0,"3,000",100.0000
+55,015,01581067,55015,Calumet,Calumet County,Wisconsin,"2,700","2,500",0.9259
+37,129,01026329,37129,New Hanover,New Hanover County,North Carolina,"7,025","17,225",2.4520
+47,131,01639779,47131,Obion,Obion County,Tennessee,"1,000",0,0.0000
+21,035,00516864,21035,Calloway,Calloway County,Kentucky,0,"2,600",100.0000
+51,003,01675170,51003,Albemarle,Albemarle County,Virginia,"8,800","142,243",16.1640
+47,147,01639786,47147,Robertson,Robertson County,Tennessee,"1,000",500,0.5000
+51,043,01690562,51043,Clarke,Clarke County,Virginia,"1,500","3,000",2.0000
+45,073,01244832,45073,Oconee,Oconee County,South Carolina,"1,500","3,500",2.3333
+22,033,00558530,22033,East Baton Rouge,East Baton Rouge Parish,Louisiana,"16,020","95,300",5.9488
+24,037,01697853,24037,St. Mary's,St. Mary's County,Maryland,"5,000","10,000",2.0000
+26,081,01622983,26081,Kent,Kent County,Michigan,"91,175","42,216",0.4630
+37,147,01008578,37147,Pitt,Pitt County,North Carolina,"7,300","13,400",1.8356
+30,009,01720111,30009,Carbon,Carbon County,Montana,0,"2,500",100.0000
+13,001,00349113,13001,Appling,Appling County,Georgia,0,800,100.0000
+12,105,00295747,12105,Polk,Polk County,Florida,"19,200","43,150",2.2474
+48,503,01384037,48503,Young,Young County,Texas,0,500,100.0000
+01,123,00161587,01123,Tallapoosa,Tallapoosa County,Alabama,"1,000",0,0.0000
+33,015,00873181,33015,Rockingham,Rockingham County,New Hampshire,"25,500","138,200",5.4196
+08,105,00198168,08105,Rio Grande,Rio Grande County,Colorado,630,0,0.0000
+19,149,00465263,19149,Plymouth,Plymouth County,Iowa,"3,000",0,0.0000
+36,123,00974159,36123,Yates,Yates County,New York,0,"4,000",100.0000
+53,033,01531933,53033,King,King County,Washington,"145,343","2,342,602",16.1177
+41,017,01155130,41017,Deschutes,Deschutes County,Oregon,"4,800","18,500",3.8542
+19,155,00465266,19155,Pottawattamie,Pottawattamie County,Iowa,0,"11,700",100.0000
+29,229,00758567,29229,Wright,Wright County,Missouri,"1,000",0,0.0000
+36,107,00974151,36107,Tioga,Tioga County,New York,"3,000","1,000",0.3333
+48,287,01383929,48287,Lee,Lee County,Texas,"1,000",0,0.0000
+13,121,01694833,13121,Fulton,Fulton County,Georgia,"131,650","650,612",4.9420
+48,073,01383822,48073,Cherokee,Cherokee County,Texas,"6,375",0,0.0000
+45,029,01247991,45029,Colleton,Colleton County,South Carolina,"1,000",0,0.0000
+55,055,01581087,55055,Jefferson,Jefferson County,Wisconsin,"1,000","1,500",1.5000
+55,013,01581066,55013,Burnett,Burnett County,Wisconsin,0,"2,000",100.0000
+35,057,00929112,35057,Torrance,Torrance County,New Mexico,"2,800",0,0.0000
+53,049,01513274,53049,Pacific,Pacific County,Washington,"1,400","1,000",0.7143
+37,141,01026129,37141,Pender,Pender County,North Carolina,"1,175","1,700",1.4468
+48,221,01383896,48221,Hood,Hood County,Texas,"8,600","2,600",0.3023
+32,031,00858608,32031,Washoe,Washoe County,Nevada,"61,500","131,207",2.1334
+48,009,01383790,48009,Archer,Archer County,Texas,"1,500",0,0.0000
+48,405,01383988,48405,San Augustine,San Augustine County,Texas,500,0,0.0000
+32,029,00858642,32029,Storey,Storey County,Nevada,500,0,0.0000
+09,001,00212794,09001,Fairfield,Fairfield County,Connecticut,"63,824","1,123,931",17.6098
+06,077,00277303,06077,San Joaquin,San Joaquin County,California,"11,500","12,700",1.1043
+01,025,00161538,01025,Clarke,Clarke County,Alabama,"2,379",0,0.0000
+01,069,00161560,01069,Houston,Houston County,Alabama,"5,000",500,0.1000
+24,029,00593907,24029,Kent,Kent County,Maryland,0,"23,100",100.0000
+46,103,01266995,46103,Pennington,Pennington County,South Dakota,"5,300",0,0.0000
+45,049,01248004,45049,Hampton,Hampton County,South Carolina,0,"2,800",100.0000
+16,043,00395408,16043,Fremont,Fremont County,Idaho,0,"1,000",100.0000
+13,029,00350496,13029,Bryan,Bryan County,Georgia,0,"4,500",100.0000
+12,111,00308372,12111,St. Lucie,St. Lucie County,Florida,"9,430","16,700",1.7709
+36,055,00974126,36055,Monroe,Monroe County,New York,"9,155","88,194",9.6334
+46,083,01265769,46083,Lincoln,Lincoln County,South Dakota,"2,800",500,0.1786
+21,157,00516922,21157,Marshall,Marshall County,Kentucky,"1,500",0,0.0000
+13,185,00326720,13185,Lowndes,Lowndes County,Georgia,"2,500",0,0.0000
+15,007,00365282,15007,Kauai,Kauai County,Hawaii,0,"14,800",100.0000
+26,099,01622992,26099,Macomb,Macomb County,Michigan,"38,840","30,300",0.7801
+17,079,00424241,17079,Jasper,Jasper County,Illinois,0,500,100.0000
+48,331,01383951,48331,Milam,Milam County,Texas,500,"1,000",2.0000
+21,137,00516915,21137,Lincoln,Lincoln County,Kentucky,500,0,0.0000
+30,005,01722470,30005,Blaine,Blaine County,Montana,500,0,0.0000
+51,710,01498557,51710,Norfolk,Norfolk city,Virginia,"5,520","13,600",2.4638
+48,389,01383980,48389,Reeves,Reeves County,Texas,500,"1,000",2.0000
+51,155,01501465,51155,Pulaski,Pulaski County,Virginia,0,"2,300",100.0000
+37,179,01008590,37179,Union,Union County,North Carolina,"11,540","12,800",1.1092
+38,053,01035299,38053,McKenzie,McKenzie County,North Dakota,"2,500",0,0.0000
+12,091,00306915,12091,Okaloosa,Okaloosa County,Florida,"22,700","2,000",0.0881
+06,001,01675839,06001,Alameda,Alameda County,California,"51,561","1,055,127",20.4637
+18,085,00450367,18085,Kosciusko,Kosciusko County,Indiana,"6,600","1,000",0.1515
+34,015,00882277,34015,Gloucester,Gloucester County,New Jersey,"9,400","18,900",2.0106
+33,011,00873179,33011,Hillsborough,Hillsborough County,New Hampshire,"13,457","50,350",3.7415
+37,121,01008571,37121,Mitchell,Mitchell County,North Carolina,0,"1,250",100.0000
+30,077,01720021,30077,Powell,Powell County,Montana,0,"1,000",100.0000
+41,053,01135862,41053,Polk,Polk County,Oregon,"2,000","4,750",2.3750
+41,065,01155136,41065,Wasco,Wasco County,Oregon,0,"9,675",100.0000
+54,025,01557518,54025,Greenbrier,Greenbrier County,West Virginia,0,"6,600",100.0000
+17,121,00424259,17121,Marion,Marion County,Illinois,0,500,100.0000
+51,007,01497770,51007,Amelia,Amelia County,Virginia,600,0,0.0000
+35,029,00933057,35029,Luna,Luna County,New Mexico,500,0,0.0000
+48,355,01383963,48355,Nueces,Nueces County,Texas,"25,600","20,050",0.7832
+56,045,01605086,56045,Weston,Weston County,Wyoming,500,0,0.0000
+17,187,01785134,17187,Warren,Warren County,Illinois,500,500,1.0000
+01,089,00161570,01089,Madison,Madison County,Alabama,"28,600","30,450",1.0647
+47,189,01639802,47189,Wilson,Wilson County,Tennessee,"3,500","12,200",3.4857
+48,063,01383817,48063,Camp,Camp County,Texas,"1,000",500,0.5000
+40,067,01101821,40067,Jefferson,Jefferson County,Oklahoma,"1,000",0,0.0000
+54,085,01689049,54085,Ritchie,Ritchie County,West Virginia,"1,000",0,0.0000
+19,145,00465261,19145,Page,Page County,Iowa,0,500,100.0000
+20,087,00485008,20087,Jefferson,Jefferson County,Kansas,500,0,0.0000
+22,045,00558576,22045,Iberia,Iberia Parish,Louisiana,"1,500",0,0.0000
+37,133,01026341,37133,Onslow,Onslow County,North Carolina,"14,520",0,0.0000
+47,057,01648575,47057,Grainger,Grainger County,Tennessee,"1,000",0,0.0000
+51,520,01498416,51520,Bristol,Bristol city,Virginia,0,500,100.0000
+20,193,00485057,20193,Thomas,Thomas County,Kansas,0,500,100.0000
+05,145,00069906,05145,White,White County,Arkansas,0,"2,500",100.0000
+28,083,00695765,28083,Leflore,Leflore County,Mississippi,0,500,100.0000
+26,043,01622964,26043,Dickinson,Dickinson County,Michigan,500,0,0.0000
+17,197,01785190,17197,Will,Will County,Illinois,"36,500","22,950",0.6288
+46,011,01265779,46011,Brookings,Brookings County,South Dakota,"1,500",0,0.0000
+29,047,00758478,29047,Clay,Clay County,Missouri,"3,900","10,944",2.8062
+18,011,00450405,18011,Boone,Boone County,Indiana,"3,000","7,800",2.6000
+19,057,00465217,19057,Des Moines,Des Moines County,Iowa,"1,000","1,500",1.5000
+19,163,00465270,19163,Scott,Scott County,Iowa,"2,000","3,000",1.5000
+28,047,00695747,28047,Harrison,Harrison County,Mississippi,"4,356","9,400",2.1579
+47,011,01639727,47011,Bradley,Bradley County,Tennessee,"2,500","1,000",0.4000
+48,315,01383940,48315,Marion,Marion County,Texas,0,500,100.0000
+36,095,00974145,36095,Schoharie,Schoharie County,New York,0,"1,000",100.0000
+36,007,00974102,36007,Broome,Broome County,New York,"1,000","10,800",10.8000
+48,291,01383931,48291,Liberty,Liberty County,Texas,"2,175","5,000",2.2989
+39,009,01074018,39009,Athens,Athens County,Ohio,0,"1,500",100.0000
+39,081,01074053,39081,Jefferson,Jefferson County,Ohio,500,500,1.0000
+54,083,01550048,54083,Randolph,Randolph County,West Virginia,0,"3,000",100.0000
+54,049,01718173,54049,Marion,Marion County,West Virginia,"2,000",0,0.0000
+34,011,00882275,34011,Cumberland,Cumberland County,New Jersey,"1,000","4,750",4.7500
+06,057,01682927,06057,Nevada,Nevada County,California,"9,300","21,900",2.3548
+55,031,01581075,55031,Douglas,Douglas County,Wisconsin,"2,000",0,0.0000
+21,199,00516946,21199,Pulaski,Pulaski County,Kentucky,0,500,100.0000
+13,213,01688005,13213,Murray,Murray County,Georgia,"1,500","2,000",1.3333
+26,117,01623001,26117,Montcalm,Montcalm County,Michigan,"1,800","3,800",2.1111
+36,083,00974140,36083,Rensselaer,Rensselaer County,New York,0,"10,700",100.0000
+12,021,00295754,12021,Collier,Collier County,Florida,"91,330","209,860",2.2978
+35,031,00929107,35031,McKinley,McKinley County,New Mexico,"1,000",500,0.5000
+13,017,00351606,13017,Ben Hill,Ben Hill County,Georgia,"1,500","2,000",1.3333
+12,003,00306920,12003,Baker,Baker County,Florida,800,0,0.0000
+01,015,00161533,01015,Calhoun,Calhoun County,Alabama,0,500,100.0000
+28,059,00695753,28059,Jackson,Jackson County,Mississippi,"3,000","6,100",2.0333
+21,037,00516865,21037,Campbell,Campbell County,Kentucky,"3,000","2,500",0.8333
+48,199,01383885,48199,Hardin,Hardin County,Texas,"1,000",500,0.5000
+09,005,00212796,09005,Litchfield,Litchfield County,Connecticut,"2,100","59,637",28.3986
+39,143,01074084,39143,Sandusky,Sandusky County,Ohio,0,"1,000",100.0000
+23,021,00581296,23021,Piscataquis,Piscataquis County,Maine,500,0,0.0000
+40,107,01101841,40107,Okfuskee,Okfuskee County,Oklahoma,"1,500",0,0.0000
+26,145,01623015,26145,Saginaw,Saginaw County,Michigan,"5,000","3,200",0.6400
+35,039,01702368,35039,Rio Arriba,Rio Arriba County,New Mexico,0,500,100.0000
+50,005,01461759,50005,Caledonia,Caledonia County,Vermont,675,0,0.0000
+51,023,01674418,51023,Botetourt,Botetourt County,Virginia,0,"3,800",100.0000
+17,119,00424258,17119,Madison,Madison County,Illinois,"1,500","91,800",61.2000
+48,085,01383828,48085,Collin,Collin County,Texas,"76,939","92,151",1.1977
+45,001,01245666,45001,Abbeville,Abbeville County,South Carolina,"1,000",0,0.0000
+31,053,00835848,31053,Dodge,Dodge County,Nebraska,"1,000",0,0.0000
+12,115,00295741,12115,Sarasota,Sarasota County,Florida,"86,355","245,985",2.8485
+55,077,01581098,55077,Marquette,Marquette County,Wisconsin,"2,000",0,0.0000
+04,015,00025445,04015,Mohave,Mohave County,Arizona,"12,400",500,0.0403
+04,025,00042809,04025,Yavapai,Yavapai County,Arizona,"17,900","28,482",1.5912
+45,051,01248005,45051,Horry,Horry County,South Carolina,"3,500","18,627",5.3220
+42,091,01213680,42091,Montgomery,Montgomery County,Pennsylvania,"39,002","637,150",16.3363
+34,027,00882231,34027,Morris,Morris County,New Jersey,"31,900","148,881",4.6671
+48,039,01383805,48039,Brazoria,Brazoria County,Texas,"6,630","15,075",2.2738
+51,790,01789075,51790,Staunton,Staunton city,Virginia,"2,000","2,500",1.2500
+39,113,01074069,39113,Montgomery,Montgomery County,Ohio,"5,000","20,200",4.0400
+13,221,00351262,13221,Oglethorpe,Oglethorpe County,Georgia,0,"1,000",100.0000
+29,147,00758528,29147,Nodaway,Nodaway County,Missouri,0,"1,000",100.0000
+38,073,01035301,38073,Ransom,Ransom County,North Dakota,0,"3,800",100.0000
+26,017,01622951,26017,Bay,Bay County,Michigan,500,"1,000",2.0000
+47,157,01639790,47157,Shelby,Shelby County,Tennessee,"49,570","134,063",2.7045
+06,007,01675842,06007,Butte,Butte County,California,"6,800","9,900",1.4559
+48,021,01383796,48021,Bastrop,Bastrop County,Texas,"4,000",500,0.1250
+53,039,01529219,53039,Klickitat,Klickitat County,Washington,0,"4,000",100.0000
+53,055,01531931,53055,San Juan,San Juan County,Washington,"8,900","13,050",1.4663
+55,009,01581064,55009,Brown,Brown County,Wisconsin,"9,550","4,500",0.4712
+22,069,00558108,22069,Natchitoches,Natchitoches Parish,Louisiana,"1,000","3,800",3.8000
+22,109,00559517,22109,Terrebonne,Terrebonne Parish,Louisiana,500,"1,000",2.0000
+02,185,01419978,02185,North Slope,North Slope Borough,Alaska,500,0,0.0000
+19,111,00465244,19111,Lee,Lee County,Iowa,"1,000",0,0.0000
+26,047,01622966,26047,Emmet,Emmet County,Michigan,500,"2,000",4.0000
+19,071,00465224,19071,Fremont,Fremont County,Iowa,500,0,0.0000
+23,015,00581293,23015,Lincoln,Lincoln County,Maine,"3,600","1,000",0.2778
+36,099,00974147,36099,Seneca,Seneca County,New York,0,"3,800",100.0000
+21,125,00516909,21125,Laurel,Laurel County,Kentucky,"2,500",0,0.0000
+47,121,01639775,47121,Meigs,Meigs County,Tennessee,0,"10,000",100.0000
+29,213,00758559,29213,Taney,Taney County,Missouri,"1,000","4,000",4.0000
+40,087,01101834,40087,McClain,McClain County,Oklahoma,"1,100",0,0.0000
+51,139,01500440,51139,Page,Page County,Virginia,0,"5,350",100.0000
+40,079,01101827,40079,Le Flore,Le Flore County,Oklahoma,"1,000",0,0.0000
+54,089,01557805,54089,Summers,Summers County,West Virginia,0,500,100.0000
+37,119,01008570,37119,Mecklenburg,Mecklenburg County,North Carolina,"74,975","332,435",4.4339
+34,013,00882276,34013,Essex,Essex County,New Jersey,"28,800","387,221",13.4452
+41,055,01135863,41055,Sherman,Sherman County,Oregon,"1,000",0,0.0000
+13,133,00348672,13133,Greene,Greene County,Georgia,"6,500","8,400",1.2923
+48,135,01383853,48135,Ector,Ector County,Texas,"12,750","2,500",0.1961
+48,293,01383932,48293,Limestone,Limestone County,Texas,"1,000",0,0.0000
+53,027,01531823,53027,Grays Harbor,Grays Harbor County,Washington,500,"2,500",5.0000
+54,003,01550008,54003,Berkeley,Berkeley County,West Virginia,500,"3,100",6.2000
+30,067,01720027,30067,Park,Park County,Montana,500,"20,597",41.1940
+48,121,01383847,48121,Denton,Denton County,Texas,"84,225","68,100",0.8085
+37,199,01008598,37199,Yancey,Yancey County,North Carolina,0,500,100.0000
+48,321,01383943,48321,Matagorda,Matagorda County,Texas,"1,000",500,0.5000
+17,133,01784865,17133,Monroe,Monroe County,Illinois,500,"2,000",4.0000
+48,363,01383967,48363,Palo Pinto,Palo Pinto County,Texas,"4,300",500,0.1163
+01,079,00161565,01079,Lawrence,Lawrence County,Alabama,0,"2,800",100.0000
+13,295,00354216,13295,Walker,Walker County,Georgia,0,"8,400",100.0000
+19,095,00465236,19095,Iowa,Iowa County,Iowa,500,"1,000",2.0000
+19,023,00465201,19023,Butler,Butler County,Iowa,0,"1,200",100.0000
+53,015,01529156,53015,Cowlitz,Cowlitz County,Washington,0,"2,100",100.0000
+48,297,01383934,48297,Live Oak,Live Oak County,Texas,500,0,0.0000
+29,135,00758522,29135,Moniteau,Moniteau County,Missouri,0,"1,000",100.0000
+51,193,01480179,51193,Westmoreland,Westmoreland County,Virginia,800,500,0.6250
+06,047,00277288,06047,Merced,Merced County,California,"4,520","20,100",4.4469
+37,023,01008539,37023,Burke,Burke County,North Carolina,"3,000",500,0.1667
+37,191,01026128,37191,Wayne,Wayne County,North Carolina,"2,500","1,500",0.6000
+42,123,01213691,42123,Warren,Warren County,Pennsylvania,"1,000","17,200",17.2000
+37,059,01008549,37059,Davie,Davie County,North Carolina,"4,300","2,800",0.6512
+37,111,01025836,37111,McDowell,McDowell County,North Carolina,"2,800","1,500",0.5357
+39,011,01074019,39011,Auglaize,Auglaize County,Ohio,"7,600",0,0.0000
+22,015,00558453,22015,Bossier,Bossier Parish,Louisiana,500,0,0.0000
+19,063,00465220,19063,Emmet,Emmet County,Iowa,0,"2,000",100.0000
+20,169,00485047,20169,Saline,Saline County,Kansas,"1,500","1,000",0.6667
+21,153,00516920,21153,Magoffin,Magoffin County,Kentucky,0,"2,800",100.0000
+56,001,01605066,56001,Albany,Albany County,Wyoming,500,"3,800",7.6000
+56,029,01605079,56029,Park,Park County,Wyoming,"1,000",500,0.5000
+42,093,01213681,42093,Montour,Montour County,Pennsylvania,0,"1,000",100.0000
+36,081,00974139,36081,Queens,Queens County,New York,"27,600","146,743",5.3168
+12,121,00295729,12121,Suwannee,Suwannee County,Florida,"3,200","1,000",0.3125
+45,057,01248008,45057,Lancaster,Lancaster County,South Carolina,"1,700","1,000",0.5882
+19,193,00465285,19193,Woodbury,Woodbury County,Iowa,500,"4,350",8.7000
+12,123,00295728,12123,Taylor,Taylor County,Florida,"1,000",0,0.0000
+29,099,00758504,29099,Jefferson,Jefferson County,Missouri,500,"11,200",22.4000
+29,113,00758511,29113,Lincoln,Lincoln County,Missouri,500,500,1.0000
+13,051,01694477,13051,Chatham,Chatham County,Georgia,"16,230","26,600",1.6389
+48,109,01383840,48109,Culberson,Culberson County,Texas,"2,000",0,0.0000
+23,005,00581288,23005,Cumberland,Cumberland County,Maine,"22,450","110,949",4.9420
+13,241,00351489,13241,Rabun,Rabun County,Georgia,"2,500",0,0.0000
+29,215,00758560,29215,Texas,Texas County,Missouri,0,500,100.0000
+05,119,00069177,05119,Pulaski,Pulaski County,Arkansas,"10,930","91,890",8.4071
+16,005,00395091,16005,Bannock,Bannock County,Idaho,0,"5,500",100.0000
+39,055,01074040,39055,Geauga,Geauga County,Ohio,"26,600","7,000",0.2632
+06,107,00277318,06107,Tulare,Tulare County,California,"6,000","7,000",1.1667
+36,117,00974156,36117,Wayne,Wayne County,New York,500,"1,050",2.1000
+51,163,01480166,51163,Rockbridge,Rockbridge County,Virginia,"1,000","8,874",8.8740
+42,045,01209177,42045,Delaware,Delaware County,Pennsylvania,"35,151","481,333",13.6933
+36,063,00974130,36063,Niagara,Niagara County,New York,"3,500","1,600",0.4571
+50,003,01461758,50003,Bennington,Bennington County,Vermont,0,"10,100",100.0000
+12,019,00295726,12019,Clay,Clay County,Florida,"11,800","9,000",0.7627
+37,183,01008592,37183,Wake,Wake County,North Carolina,"64,200","354,849",5.5272
+39,061,01074043,39061,Hamilton,Hamilton County,Ohio,"35,000","147,014",4.2004
+34,003,00882271,34003,Bergen,Bergen County,New Jersey,"37,800","307,275",8.1290
+19,019,00465199,19019,Buchanan,Buchanan County,Iowa,0,500,100.0000
+17,043,00422191,17043,DuPage,DuPage County,Illinois,"62,015","188,672",3.0424
+13,219,00356774,13219,Oconee,Oconee County,Georgia,"2,500","10,100",4.0400
+48,493,01384032,48493,Wilson,Wilson County,Texas,500,"1,250",2.5000
+04,012,00043540,04012,La Paz,La Paz County,Arizona,"1,750",0,0.0000
+02,150,01419974,02150,Kodiak Island,Kodiak Island Borough,Alaska,0,500,100.0000
+26,115,01623000,26115,Monroe,Monroe County,Michigan,"2,500","6,544",2.6176
+18,181,00450338,18181,White,White County,Indiana,0,500,100.0000
+21,139,00516916,21139,Livingston,Livingston County,Kentucky,500,0,0.0000
+47,103,01639766,47103,Lincoln,Lincoln County,Tennessee,"1,000",0,0.0000
+21,211,00516952,21211,Shelby,Shelby County,Kentucky,500,"2,500",5.0000
+42,001,01213656,42001,Adams,Adams County,Pennsylvania,"2,800","2,100",0.7500
+47,037,01639737,47037,Davidson,Davidson County,Tennessee,"55,600","344,573",6.1974
+49,047,01448037,49047,Uintah,Uintah County,Utah,"1,000",0,0.0000
+49,049,01448038,49049,Utah,Utah County,Utah,"28,700","16,131",0.5621
+18,021,00450341,18021,Clay,Clay County,Indiana,0,500,100.0000
+36,047,00974122,36047,Kings,Kings County,New York,"19,740","801,418",40.5987
+39,075,01074050,39075,Holmes,Holmes County,Ohio,"3,000",0,0.0000
+18,079,00450364,18079,Jennings,Jennings County,Indiana,0,"1,000",100.0000
+16,083,00399334,16083,Twin Falls,Twin Falls County,Idaho,"4,800",500,0.1042
+17,165,00424283,17165,Saline,Saline County,Illinois,"1,000",0,0.0000
+26,077,01622981,26077,Kalamazoo,Kalamazoo County,Michigan,500,"17,174",34.3480
+56,019,01609191,56019,Johnson,Johnson County,Wyoming,"5,500","1,000",0.1818
+18,027,00450343,18027,Daviess,Daviess County,Indiana,0,"1,000",100.0000
+26,055,01622970,26055,Grand Traverse,Grand Traverse County,Michigan,"1,000","8,500",8.5000
+46,069,01266984,46069,Hyde,Hyde County,South Dakota,500,0,0.0000
+45,027,01247990,45027,Clarendon,Clarendon County,South Carolina,"1,000","2,150",2.1500
+30,095,01719572,30095,Stillwater,Stillwater County,Montana,0,500,100.0000
+47,007,01639725,47007,Bledsoe,Bledsoe County,Tennessee,500,0,0.0000
+47,183,01639799,47183,Weakley,Weakley County,Tennessee,750,"1,000",1.3333
+29,077,00758493,29077,Greene,Greene County,Missouri,"38,600","6,000",0.1554
+42,077,01209182,42077,Lehigh,Lehigh County,Pennsylvania,"8,500","31,775",3.7382
+31,159,00835901,31159,Seward,Seward County,Nebraska,0,500,100.0000
+36,015,00974106,36015,Chemung,Chemung County,New York,0,"3,500",100.0000
+06,099,00277314,06099,Stanislaus,Stanislaus County,California,"15,550","17,300",1.1125
+42,095,01209185,42095,Northampton,Northampton County,Pennsylvania,"15,200","30,500",2.0066
+01,103,00161578,01103,Morgan,Morgan County,Alabama,"13,900",0,0.0000
+21,027,00516860,21027,Breckinridge,Breckinridge County,Kentucky,0,"2,000",100.0000
+50,013,01461763,50013,Grand Isle,Grand Isle County,Vermont,500,0,0.0000
+39,029,01074027,39029,Columbiana,Columbiana County,Ohio,"2,500",600,0.2400
+51,125,01500936,51125,Nelson,Nelson County,Virginia,0,"2,500",100.0000
+12,097,00295748,12097,Osceola,Osceola County,Florida,"17,500","26,300",1.5029
+36,061,00974129,36061,New York,New York County,New York,"428,090","7,593,714",17.7386
+05,007,00069896,05007,Benton,Benton County,Arkansas,"10,000","15,700",1.5700
+12,083,00306922,12083,Marion,Marion County,Florida,"11,450","32,000",2.7948
+51,135,01493928,51135,Nottoway,Nottoway County,Virginia,0,"1,000",100.0000
+34,041,00882237,34041,Warren,Warren County,New Jersey,"3,500","3,000",0.8571
+36,021,00974109,36021,Columbia,Columbia County,New York,"1,000","41,300",41.3000
+40,023,01101799,40023,Choctaw,Choctaw County,Oklahoma,"2,000",0,0.0000
+48,427,01383999,48427,Starr,Starr County,Texas,0,"1,000",100.0000
+13,103,00350219,13103,Effingham,Effingham County,Georgia,"1,000",0,0.0000
+35,025,01702365,35025,Lea,Lea County,New Mexico,"5,300",0,0.0000
+01,075,00161563,01075,Lamar,Lamar County,Alabama,0,"3,919",100.0000
+47,117,01639771,47117,Marshall,Marshall County,Tennessee,630,"1,500",2.3810
+51,011,01497238,51011,Appomattox,Appomattox County,Virginia,0,"2,800",100.0000
+56,033,01605081,56033,Sheridan,Sheridan County,Wyoming,500,500,1.0000
+42,041,01209176,42041,Cumberland,Cumberland County,Pennsylvania,"1,000","21,950",21.9500
+42,055,01213670,42055,Franklin,Franklin County,Pennsylvania,"3,500","2,000",0.5714
+42,079,01209183,42079,Luzerne,Luzerne County,Pennsylvania,"5,500","39,850",7.2455
+01,113,00161583,01113,Russell,Russell County,Alabama,"3,000",0,0.0000
+51,065,01494061,51065,Fluvanna,Fluvanna County,Virginia,0,"2,500",100.0000
+17,097,01784796,17097,Lake,Lake County,Illinois,"24,800","340,090",13.7133
+13,195,01688004,13195,Madison,Madison County,Georgia,"1,000",500,0.5000
+55,141,01581130,55141,Wood,Wood County,Wisconsin,"5,300","1,500",0.2830
+36,013,00974105,36013,Chautauqua,Chautauqua County,New York,"2,100","2,000",0.9524
+13,067,01686112,13067,Cobb,Cobb County,Georgia,"59,600","130,975",2.1976
+47,091,01639760,47091,Johnson,Johnson County,Tennessee,"1,000",0,0.0000
+39,013,01065575,39013,Belmont,Belmont County,Ohio,"2,500",0,0.0000
+40,013,01101794,40013,Bryan,Bryan County,Oklahoma,"1,000","1,000",1.0000
+24,017,01676992,24017,Charles,Charles County,Maryland,"1,000","3,500",3.5000
+19,033,00465206,19033,Cerro Gordo,Cerro Gordo County,Iowa,"1,000",500,0.5000
+19,073,00465225,19073,Greene,Greene County,Iowa,"2,000",500,0.2500
+21,205,00516949,21205,Rowan,Rowan County,Kentucky,0,500,100.0000
+29,031,00758470,29031,Cape Girardeau,Cape Girardeau County,Missouri,"9,100",0,0.0000
+53,071,01531819,53071,Walla Walla,Walla Walla County,Washington,"3,100","2,000",0.6452
+48,113,01383842,48113,Dallas,Dallas County,Texas,"220,172","1,049,230",4.7655
+18,033,00450346,18033,DeKalb,DeKalb County,Indiana,"1,500",0,0.0000
+22,073,00558114,22073,Ouachita,Ouachita Parish,Louisiana,"21,000","6,600",0.3143
+22,095,01629472,22095,St. John the Baptist,St. John the Baptist Parish,Louisiana,0,"14,400",100.0000
+01,059,00161555,01059,Franklin,Franklin County,Alabama,0,500,100.0000
+08,019,00198125,08019,Clear Creek,Clear Creek County,Colorado,"11,300","16,350",1.4469
+48,267,01383919,48267,Kimble,Kimble County,Texas,"1,000",0,0.0000
+26,097,01622991,26097,Mackinac,Mackinac County,Michigan,0,"1,000",100.0000
+48,307,01383945,48307,McCulloch,McCulloch County,Texas,0,500,100.0000
+48,105,01383838,48105,Crockett,Crockett County,Texas,"1,500",0,0.0000
+48,217,01383894,48217,Hill,Hill County,Texas,"1,000",0,0.0000
+08,075,00198153,08075,Logan,Logan County,Colorado,500,0,0.0000
+20,055,00485326,20055,Finney,Finney County,Kansas,"2,500",0,0.0000
+20,125,00485027,20125,Montgomery,Montgomery County,Kansas,500,0,0.0000
+31,033,00835838,31033,Cheyenne,Cheyenne County,Nebraska,500,0,0.0000
+47,155,01639789,47155,Sevier,Sevier County,Tennessee,500,"2,500",5.0000
+47,139,01639782,47139,Polk,Polk County,Tennessee,0,"1,200",100.0000
+39,141,01074083,39141,Ross,Ross County,Ohio,500,"1,000",2.0000
+17,195,01785167,17195,Whiteside,Whiteside County,Illinois,500,"1,000",2.0000
+48,141,01383855,48141,El Paso,El Paso County,Texas,"36,900","9,500",0.2575
+29,091,00758500,29091,Howell,Howell County,Missouri,0,"1,500",100.0000
+21,111,00516902,21111,Jefferson,Jefferson County,Kentucky,"18,612","93,400",5.0183
+55,139,01581129,55139,Winnebago,Winnebago County,Wisconsin,"8,075","8,498",1.0524
+20,079,00485005,20079,Harvey,Harvey County,Kansas,"3,300",0,0.0000
+26,111,01622998,26111,Midland,Midland County,Michigan,"6,275","4,000",0.6375
+21,093,00516893,21093,Hardin,Hardin County,Kentucky,"2,500",500,0.2000
+17,081,00424242,17081,Jefferson,Jefferson County,Illinois,"1,000",0,0.0000
+36,033,00974115,36033,Franklin,Franklin County,New York,0,"8,750",100.0000
+51,630,01498425,51630,Fredericksburg,Fredericksburg city,Virginia,500,"4,300",8.6000
+54,081,01550047,54081,Raleigh,Raleigh County,West Virginia,"12,200","1,000",0.0820
+35,005,01702364,35005,Chaves,Chaves County,New Mexico,500,0,0.0000
+35,049,00933322,35049,Santa Fe,Santa Fe County,New Mexico,"9,930","172,539",17.3755
+06,059,00277294,06059,Orange,Orange County,California,"340,579","840,613",2.4682
+04,023,00040472,04023,Santa Cruz,Santa Cruz County,Arizona,0,"1,000",100.0000
+37,053,01026125,37053,Currituck,Currituck County,North Carolina,500,"1,000",2.0000
+18,067,00450360,18067,Howard,Howard County,Indiana,"1,000",0,0.0000
+21,047,00516870,21047,Christian,Christian County,Kentucky,"2,800",0,0.0000
+26,045,01622965,26045,Eaton,Eaton County,Michigan,"12,225","3,500",0.2863
+06,025,00277277,06025,Imperial,Imperial County,California,"6,000",0,0.0000
+26,027,01622956,26027,Cass,Cass County,Michigan,500,"4,667",9.3340
+20,179,00485052,20179,Sheridan,Sheridan County,Kansas,0,500,100.0000
+28,099,00695772,28099,Neshoba,Neshoba County,Mississippi,"1,000","2,535",2.5350
+18,071,00451678,18071,Jackson,Jackson County,Indiana,"1,000",500,0.5000
+28,081,00695764,28081,Lee,Lee County,Mississippi,"2,000","6,100",3.0500
+05,035,00069162,05035,Crittenden,Crittenden County,Arkansas,600,0,0.0000
+12,063,00295734,12063,Jackson,Jackson County,Florida,"8,400","1,020",0.1214
+51,115,01480145,51115,Mathews,Mathews County,Virginia,0,"1,000",100.0000
+36,067,00974132,36067,Onondaga,Onondaga County,New York,"4,500","33,100",7.3556
+19,087,00465232,19087,Henry,Henry County,Iowa,500,0,0.0000
+55,091,01581106,55091,Pepin,Pepin County,Wisconsin,"1,000",0,0.0000
+04,001,00025441,04001,Apache,Apache County,Arizona,"1,500",0,0.0000
+29,121,00758514,29121,Macon,Macon County,Missouri,500,0,0.0000
+48,015,01383793,48015,Austin,Austin County,Texas,0,500,100.0000
+19,119,00465248,19119,Lyon,Lyon County,Iowa,500,0,0.0000
+48,233,01383902,48233,Hutchinson,Hutchinson County,Texas,500,0,0.0000
+06,101,00277315,06101,Sutter,Sutter County,California,"2,000",0,0.0000
+49,023,01455158,49023,Juab,Juab County,Utah,500,0,0.0000
+40,137,01101856,40137,Stephens,Stephens County,Oklahoma,"2,750",0,0.0000
+36,017,00974107,36017,Chenango,Chenango County,New York,0,500,100.0000
+17,143,01784920,17143,Peoria,Peoria County,Illinois,"11,300","9,800",0.8673
+31,177,00835910,31177,Washington,Washington County,Nebraska,500,0,0.0000
+42,003,01213657,42003,Allegheny,Allegheny County,Pennsylvania,"37,388","418,884",11.2037
+39,097,01074061,39097,Madison,Madison County,Ohio,500,0,0.0000
+17,019,00424211,17019,Champaign,Champaign County,Illinois,"11,500","35,251",3.0653
+17,045,00424224,17045,Edgar,Edgar County,Illinois,500,0,0.0000
+38,093,01034224,38093,Stutsman,Stutsman County,North Dakota,0,600,100.0000
+29,203,00758554,29203,Shannon,Shannon County,Missouri,500,0,0.0000
+48,423,01383997,48423,Smith,Smith County,Texas,"28,600","5,300",0.1853
+40,143,01101859,40143,Tulsa,Tulsa County,Oklahoma,"43,080","55,018",1.2771
+40,091,01101836,40091,McIntosh,McIntosh County,Oklahoma,625,0,0.0000
+48,171,01383871,48171,Gillespie,Gillespie County,Texas,"6,300","2,000",0.3175
+26,125,01623005,26125,Oakland,Oakland County,Michigan,"132,671","504,837",3.8052
+51,099,01480137,51099,King George,King George County,Virginia,"4,300",0,0.0000
+53,025,01531924,53025,Grant,Grant County,Washington,"2,000",0,0.0000
+12,001,00308548,12001,Alachua,Alachua County,Florida,"18,600","101,502",5.4571
+51,147,01492359,51147,Prince Edward,Prince Edward County,Virginia,"2,000","6,800",3.4000
+42,017,01209173,42017,Bucks,Bucks County,Pennsylvania,"35,000","179,150",5.1186
+42,081,01213677,42081,Lycoming,Lycoming County,Pennsylvania,"10,400","4,000",0.3846
+16,057,00395613,16057,Latah,Latah County,Idaho,"1,500","3,800",2.5333
+13,237,00347246,13237,Putnam,Putnam County,Georgia,"1,500",0,0.0000
+05,073,00066864,05073,Lafayette,Lafayette County,Arkansas,"1,000",0,0.0000
+48,451,01384011,48451,Tom Green,Tom Green County,Texas,"11,575","1,000",0.0864
+39,025,01074025,39025,Clermont,Clermont County,Ohio,"41,037","13,076",0.3186
+41,071,01135866,41071,Yamhill,Yamhill County,Oregon,"5,800","5,960",1.0276
+39,137,01074081,39137,Putnam,Putnam County,Ohio,0,"1,000",100.0000
+42,075,01214034,42075,Lebanon,Lebanon County,Pennsylvania,"7,600","5,027",0.6614
+32,027,00858646,32027,Pershing,Pershing County,Nevada,"2,000",0,0.0000
+34,031,00882232,34031,Passaic,Passaic County,New Jersey,"5,900","16,500",2.7966
+30,047,01796943,30047,Lake,Lake County,Montana,0,"8,510",100.0000
+40,073,01101824,40073,Kingfisher,Kingfisher County,Oklahoma,"1,000",0,0.0000
+36,035,00974116,36035,Fulton,Fulton County,New York,0,"1,000",100.0000
+28,133,00695787,28133,Sunflower,Sunflower County,Mississippi,500,0,0.0000
+27,053,00659472,27053,Hennepin,Hennepin County,Minnesota,"70,197","554,069",7.8931
+42,027,01214720,42027,Centre,Centre County,Pennsylvania,"6,600","16,502",2.5003
+19,171,00465274,19171,Tama,Tama County,Iowa,0,500,100.0000
+20,175,00485050,20175,Seward,Seward County,Kansas,"1,000",0,0.0000
+19,135,00465256,19135,Monroe,Monroe County,Iowa,0,500,100.0000
+12,089,00295730,12089,Nassau,Nassau County,Florida,"19,000","8,500",0.4474
+12,133,00295762,12133,Washington,Washington County,Florida,500,0,0.0000
+13,275,00343835,13275,Thomas,Thomas County,Georgia,"1,000","3,150",3.1500
+21,185,00516939,21185,Oldham,Oldham County,Kentucky,"12,400","19,500",1.5726
+13,057,01685718,13057,Cherokee,Cherokee County,Georgia,"24,450","5,828",0.2384
+26,133,01623009,26133,Osceola,Osceola County,Michigan,0,500,100.0000
+22,101,01629492,22101,St. Mary,St. Mary Parish,Louisiana,500,0,0.0000
+50,007,01461760,50007,Chittenden,Chittenden County,Vermont,"3,300","85,104",25.7891
+15,009,00365283,15009,Maui,Maui County,Hawaii,"20,800","20,300",0.9760
+22,057,00558065,22057,Lafourche,Lafourche Parish,Louisiana,"10,800",0,0.0000
+12,113,00306914,12113,Santa Rosa,Santa Rosa County,Florida,"12,300","6,300",0.5122
+13,055,00352213,13055,Chattooga,Chattooga County,Georgia,"6,500",0,0.0000
+20,137,00485032,20137,Norton,Norton County,Kansas,500,0,0.0000
+18,177,00450336,18177,Wayne,Wayne County,Indiana,"2,800",500,0.1786
+21,009,00516851,21009,Barren,Barren County,Kentucky,"1,000",0,0.0000
+06,005,01675841,06005,Amador,Amador County,California,"1,500","1,000",0.6667
+47,049,01639743,47049,Fentress,Fentress County,Tennessee,0,"1,000",100.0000
+51,031,01674917,51031,Campbell,Campbell County,Virginia,500,500,1.0000
+39,105,01074065,39105,Meigs,Meigs County,Ohio,"1,000",0,0.0000
+54,067,01550040,54067,Nicholas,Nicholas County,West Virginia,"1,000",0,0.0000
+50,027,01461770,50027,Windsor,Windsor County,Vermont,"1,250","51,500",41.2000
+35,001,01702363,35001,Bernalillo,Bernalillo County,New Mexico,"24,351","91,097",3.7410
+13,205,00343645,13205,Mitchell,Mitchell County,Georgia,0,"2,050",100.0000
+15,001,00365280,15001,Hawaii,Hawaii County,Hawaii,"4,800","23,950",4.9896
+21,147,00516926,21147,McCreary,McCreary County,Kentucky,500,0,0.0000
+21,191,00516942,21191,Pendleton,Pendleton County,Kentucky,500,0,0.0000
+21,215,00516954,21215,Spencer,Spencer County,Kentucky,500,0,0.0000
+24,043,01714220,24043,Washington,Washington County,Maryland,"11,600","7,040",0.6069
+34,033,00882233,34033,Salem,Salem County,New Jersey,0,"4,000",100.0000
+51,680,01498429,51680,Lynchburg,Lynchburg city,Virginia,0,"2,800",100.0000
+05,125,00067102,05125,Saline,Saline County,Arkansas,"3,000",0,0.0000
+21,049,00516871,21049,Clark,Clark County,Kentucky,0,"2,800",100.0000
+26,005,01622945,26005,Allegan,Allegan County,Michigan,"10,100","4,600",0.4554
+47,137,01648580,47137,Pickett,Pickett County,Tennessee,"2,800",0,0.0000
+51,109,01494707,51109,Louisa,Louisa County,Virginia,0,"10,600",100.0000
+18,145,00450387,18145,Shelby,Shelby County,Indiana,"1,000","3,000",3.0000
+39,049,01074037,39049,Franklin,Franklin County,Ohio,"37,402","317,291",8.4833
+49,021,01448025,49021,Iron,Iron County,Utah,"1,000",0,0.0000
+49,039,01448033,49039,Sanpete,Sanpete County,Utah,500,"3,800",7.6000
+12,009,00295749,12009,Brevard,Brevard County,Florida,"46,470","118,604",2.5523
+18,105,00451680,18105,Monroe,Monroe County,Indiana,"7,200","24,750",3.4375
+21,239,00516966,21239,Woodford,Woodford County,Kentucky,"1,500","6,600",4.4000
+48,043,01383807,48043,Brewster,Brewster County,Texas,500,500,1.0000
+45,065,01248012,45065,McCormick,McCormick County,South Carolina,"1,350",0,0.0000
+27,103,00659497,27103,Nicollet,Nicollet County,Minnesota,0,500,100.0000
+55,075,01581097,55075,Marinette,Marinette County,Wisconsin,"2,800",0,0.0000
+53,011,01531820,53011,Clark,Clark County,Washington,"14,430","71,596",4.9616
+18,103,00450373,18103,Miami,Miami County,Indiana,500,0,0.0000
+21,073,00516883,21073,Franklin,Franklin County,Kentucky,0,"6,250",100.0000
+23,009,00581290,23009,Hancock,Hancock County,Maine,"1,000","5,630",5.6300
+23,013,00581292,23013,Knox,Knox County,Maine,"2,800","16,510",5.8964
+13,217,01673547,13217,Newton,Newton County,Georgia,"1,500","1,500",1.0000
+26,061,01622973,26061,Houghton,Houghton County,Michigan,"1,200",500,0.4167
+30,061,01720030,30061,Mineral,Mineral County,Montana,500,0,0.0000
+47,051,01639744,47051,Franklin,Franklin County,Tennessee,"5,600",0,0.0000
+22,063,00558083,22063,Livingston,Livingston Parish,Louisiana,"7,700",0,0.0000
+25,009,00606931,25009,Essex,Essex County,Massachusetts,"26,900","223,813",8.3202
+08,035,00198133,08035,Douglas,Douglas County,Colorado,"27,050","74,978",2.7718
+45,079,01249299,45079,Richland,Richland County,South Carolina,"8,000","148,965",18.6206
+18,095,00450370,18095,Madison,Madison County,Indiana,0,"7,150",100.0000
+40,099,01101837,40099,Murray,Murray County,Oklahoma,"5,600",0,0.0000
+30,111,01719558,30111,Yellowstone,Yellowstone County,Montana,"5,000","9,400",1.8800
+06,033,00277281,06033,Lake,Lake County,California,"2,800","3,800",1.3571
+13,131,00351261,13131,Grady,Grady County,Georgia,0,500,100.0000
+08,021,00198126,08021,Conejos,Conejos County,Colorado,0,"2,000",100.0000
+49,037,01448032,49037,San Juan,San Juan County,Utah,500,0,0.0000
+18,133,00450384,18133,Putnam,Putnam County,Indiana,0,"2,800",100.0000
+47,167,01639795,47167,Tipton,Tipton County,Tennessee,"3,200",0,0.0000
+22,121,00559570,22121,West Baton Rouge,West Baton Rouge Parish,Louisiana,0,"7,600",100.0000
+56,039,01605083,56039,Teton,Teton County,Wyoming,"7,600","120,968",15.9168
+55,043,01581081,55043,Grant,Grant County,Wisconsin,500,"2,000",4.0000
+37,041,01025822,37041,Chowan,Chowan County,North Carolina,500,0,0.0000
+37,021,01008538,37021,Buncombe,Buncombe County,North Carolina,"19,800","82,325",4.1578
+50,023,01461768,50023,Washington,Washington County,Vermont,"8,400","10,800",1.2857
+46,093,01266991,46093,Meade,Meade County,South Dakota,"2,500",0,0.0000
+18,097,00450371,18097,Marion,Marion County,Indiana,"25,650","149,782",5.8395
+13,021,01672039,13021,Bibb,Bibb County,Georgia,"6,300","7,800",1.2381
+05,115,00069901,05115,Pope,Pope County,Arkansas,0,"2,800",100.0000
+48,183,01383877,48183,Gregg,Gregg County,Texas,"10,475","5,800",0.5537
+36,087,00974142,36087,Rockland,Rockland County,New York,"11,200","116,388",10.3918
+51,800,01498560,51800,Suffolk,Suffolk city,Virginia,500,"1,000",2.0000
+08,041,00198135,08041,El Paso,El Paso County,Colorado,"37,225","35,600",0.9563
+29,187,00758548,29187,St. Francois,St. Francois County,Missouri,"1,000",0,0.0000
+48,475,01384023,48475,Ward,Ward County,Texas,550,0,0.0000
+41,015,01155129,41015,Curry,Curry County,Oregon,"3,000","2,500",0.8333
+08,119,00198175,08119,Teller,Teller County,Colorado,0,500,100.0000
+29,049,00758479,29049,Clinton,Clinton County,Missouri,"1,000",0,0.0000
+49,051,01448039,49051,Wasatch,Wasatch County,Utah,"3,000",0,0.0000
+37,157,01008582,37157,Rockingham,Rockingham County,North Carolina,0,500,100.0000
+05,011,00063757,05011,Bradley,Bradley County,Arkansas,0,500,100.0000
+24,011,00595737,24011,Caroline,Caroline County,Maryland,0,"2,560",100.0000
+27,041,00659466,27041,Douglas,Douglas County,Minnesota,"1,500",0,0.0000
+30,043,01720045,30043,Jefferson,Jefferson County,Montana,"2,000",0,0.0000
+51,059,01480119,51059,Fairfax,Fairfax County,Virginia,"153,307","1,210,507",7.8960
+47,001,01639722,47001,Anderson,Anderson County,Tennessee,"3,500","12,300",3.5143
+39,077,01074051,39077,Huron,Huron County,Ohio,500,0,0.0000
+10,001,00217271,10001,Kent,Kent County,Delaware,"3,728","15,800",4.2382
+39,173,01074098,39173,Wood,Wood County,Ohio,"8,000","11,800",1.4750
+13,157,00349570,13157,Jackson,Jackson County,Georgia,"6,500","7,100",1.0923
+08,051,00198141,08051,Gunnison,Gunnison County,Colorado,0,"5,800",100.0000
+26,029,01622957,26029,Charlevoix,Charlevoix County,Michigan,0,"10,675",100.0000
+27,151,00659520,27151,Swift,Swift County,Minnesota,0,500,100.0000
+39,147,01074086,39147,Seneca,Seneca County,Ohio,0,600,100.0000
+13,267,00347445,13267,Tattnall,Tattnall County,Georgia,"1,500",0,0.0000
+30,081,01719582,30081,Ravalli,Ravalli County,Montana,"3,000",500,0.1667
+53,043,01514052,53043,Lincoln,Lincoln County,Washington,"1,000",0,0.0000
+06,081,00277305,06081,San Mateo,San Mateo County,California,"48,325","1,421,226",29.4097
+16,021,00395159,16021,Boundary,Boundary County,Idaho,"2,025",0,0.0000
+39,035,01074030,39035,Cuyahoga,Cuyahoga County,Ohio,"46,610","192,836",4.1372
+48,285,01383928,48285,Lavaca,Lavaca County,Texas,0,500,100.0000
+41,059,01156673,41059,Umatilla,Umatilla County,Oregon,"1,501","1,500",0.9993
+22,065,00558088,22065,Madison,Madison Parish,Louisiana,500,0,0.0000
+13,313,00353513,13313,Whitfield,Whitfield County,Georgia,"1,500",0,0.0000
+53,035,01529223,53035,Kitsap,Kitsap County,Washington,"21,800","72,750",3.3372
+17,111,01784815,17111,McHenry,McHenry County,Illinois,"8,000","23,050",2.8813
+53,075,01533501,53075,Whitman,Whitman County,Washington,"2,800","5,076",1.8129
+27,147,00659518,27147,Steele,Steele County,Minnesota,0,"1,200",100.0000
+47,033,01648574,47033,Crockett,Crockett County,Tennessee,0,"1,000",100.0000
+19,079,00465228,19079,Hamilton,Hamilton County,Iowa,500,"1,500",3.0000
+39,165,01074094,39165,Warren,Warren County,Ohio,"5,800","7,500",1.2931
+13,255,00353055,13255,Spalding,Spalding County,Georgia,500,"1,000",2.0000
+34,019,00882228,34019,Hunterdon,Hunterdon County,New Jersey,"6,000","42,700",7.1167
+13,035,00352295,13035,Butts,Butts County,Georgia,500,0,0.0000
+08,039,00198136,08039,Elbert,Elbert County,Colorado,"2,500","2,500",1.0000
+44,001,01219777,44001,Bristol,Bristol County,Rhode Island,"1,000","27,800",27.8000
+48,035,01383803,48035,Bosque,Bosque County,Texas,"2,260",0,0.0000
+44,005,01219779,44005,Newport,Newport County,Rhode Island,"7,600","45,954",6.0466
+39,045,01074035,39045,Fairfield,Fairfield County,Ohio,"2,000","2,000",1.0000
+41,031,01155132,41031,Jefferson,Jefferson County,Oregon,"9,400",0,0.0000
+47,021,01639731,47021,Cheatham,Cheatham County,Tennessee,0,"2,500",100.0000
+46,127,01265763,46127,Union,Union County,South Dakota,"2,800",0,0.0000
+01,051,00161551,01051,Elmore,Elmore County,Alabama,"2,000",500,0.2500
+13,187,00357196,13187,Lumpkin,Lumpkin County,Georgia,"3,000","1,500",0.5000
+39,083,01074054,39083,Knox,Knox County,Ohio,"17,300",0,0.0000
+19,017,00465198,19017,Bremer,Bremer County,Iowa,"4,568",0,0.0000
+48,175,01383873,48175,Goliad,Goliad County,Texas,0,500,100.0000
+37,089,01008562,37089,Henderson,Henderson County,North Carolina,"13,776","10,300",0.7477
+12,061,00307624,12061,Indian River,Indian River County,Florida,"38,800","78,450",2.0219
+36,051,00974124,36051,Livingston,Livingston County,New York,600,"2,000",3.3333
+48,379,01383975,48379,Rains,Rains County,Texas,"1,000",0,0.0000
+51,105,01496538,51105,Lee,Lee County,Virginia,0,"2,000",100.0000
+35,051,01702370,35051,Sierra,Sierra County,New Mexico,0,500,100.0000
+31,123,00835883,31123,Morrill,Morrill County,Nebraska,500,0,0.0000
+29,015,00758462,29015,Benton,Benton County,Missouri,0,"1,000",100.0000
+05,109,00069173,05109,Pike,Pike County,Arkansas,0,"1,000",100.0000
+08,077,00198154,08077,Mesa,Mesa County,Colorado,"5,377","7,050",1.3111
+29,065,00758487,29065,Dent,Dent County,Missouri,"5,600",0,0.0000
+51,185,01497748,51185,Tazewell,Tazewell County,Virginia,500,500,1.0000
+42,103,01213683,42103,Pike,Pike County,Pennsylvania,"4,800","23,985",4.9969
+42,115,01213688,42115,Susquehanna,Susquehanna County,Pennsylvania,"4,931","1,000",0.2028
+48,343,01383957,48343,Morris,Morris County,Texas,0,"2,800",100.0000
+42,125,01209190,42125,Washington,Washington County,Pennsylvania,"18,448","28,300",1.5340
+50,001,01461757,50001,Addison,Addison County,Vermont,0,"18,600",100.0000
+20,103,00485016,20103,Leavenworth,Leavenworth County,Kansas,"2,500","2,000",0.8000
+26,121,01623003,26121,Muskegon,Muskegon County,Michigan,"8,325","1,500",0.1802
+28,049,00695748,28049,Hinds,Hinds County,Mississippi,"5,500","20,700",3.7636
+48,281,01383927,48281,Lampasas,Lampasas County,Texas,500,"1,000",2.0000
+51,107,01480141,51107,Loudoun,Loudoun County,Virginia,"38,900","84,529",2.1730
+36,025,00974111,36025,Delaware,Delaware County,New York,0,"4,000",100.0000
+53,045,01529221,53045,Mason,Mason County,Washington,"1,000","6,259",6.2590
+37,127,01008574,37127,Nash,Nash County,North Carolina,"3,800","3,500",0.9211
+51,199,01480182,51199,York,York County,Virginia,"3,396","1,500",0.4417
+29,159,00758534,29159,Pettis,Pettis County,Missouri,"3,000",500,0.1667
+30,063,01719596,30063,Missoula,Missoula County,Montana,"6,000","52,442",8.7403
+51,047,01497831,51047,Culpeper,Culpeper County,Virginia,0,"20,750",100.0000
+40,061,01101818,40061,Haskell,Haskell County,Oklahoma,"1,000",0,0.0000
+54,069,01717163,54069,Ohio,Ohio County,West Virginia,"3,000","2,000",0.6667
+54,065,01557950,54065,Morgan,Morgan County,West Virginia,500,"7,100",14.2000
+51,165,01488970,51165,Rockingham,Rockingham County,Virginia,"3,000","6,900",2.3000
+18,183,00450369,18183,Whitley,Whitley County,Indiana,0,"1,000",100.0000
+06,093,00277311,06093,Siskiyou,Siskiyou County,California,"1,500","1,500",1.0000
+22,071,00558113,22071,Orleans,Orleans Parish,Louisiana,"9,300","327,700",35.2366
+01,073,00161562,01073,Jefferson,Jefferson County,Alabama,"20,980","110,327",5.2587
+12,039,00306918,12039,Gadsden,Gadsden County,Florida,"1,000","2,000",2.0000
+13,083,00347465,13083,Dade,Dade County,Georgia,"1,000",0,0.0000
+28,033,00695741,28033,DeSoto,DeSoto County,Mississippi,"6,500","4,300",0.6615
+51,187,01674058,51187,Warren,Warren County,Virginia,"2,500","5,600",2.2400
+47,113,01639769,47113,Madison,Madison County,Tennessee,"3,000","1,000",0.3333
+37,009,01008535,37009,Ashe,Ashe County,North Carolina,500,0,0.0000
+39,089,01074057,39089,Licking,Licking County,Ohio,"2,500","5,500",2.2000
+51,683,01498430,51683,Manassas,Manassas city,Virginia,0,"2,000",100.0000
+05,139,00069903,05139,Union,Union County,Arkansas,"3,000",0,0.0000
+01,101,00161577,01101,Montgomery,Montgomery County,Alabama,"5,000","106,200",21.2400
+08,005,00198118,08005,Arapahoe,Arapahoe County,Colorado,"37,900","150,689",3.9760
+53,057,01531402,53057,Skagit,Skagit County,Washington,"5,300","13,914",2.6253
+28,067,00695757,28067,Jones,Jones County,Mississippi,0,"2,800",100.0000
+55,021,01581070,55021,Columbia,Columbia County,Wisconsin,"1,000",0,0.0000
+37,019,01026340,37019,Brunswick,Brunswick County,North Carolina,"4,800","15,800",3.2917
+31,079,00835861,31079,Hall,Hall County,Nebraska,"5,800",500,0.0862
+01,007,00161529,01007,Bibb,Bibb County,Alabama,"2,000",500,0.2500
+28,075,00695761,28075,Lauderdale,Lauderdale County,Mississippi,500,"5,300",10.6000
+27,013,00659452,27013,Blue Earth,Blue Earth County,Minnesota,0,"1,000",100.0000
+51,091,01673774,51091,Highland,Highland County,Virginia,0,"1,000",100.0000
+51,177,01480172,51177,Spotsylvania,Spotsylvania County,Virginia,"3,300","4,700",1.4242
+33,017,00873182,33017,Strafford,Strafford County,New Hampshire,"4,000","16,593",4.1483
+13,153,01671693,13153,Houston,Houston County,Georgia,"2,000",500,0.2500
+26,041,01622963,26041,Delta,Delta County,Michigan,"1,500","1,000",0.6667
+05,131,00069181,05131,Sebastian,Sebastian County,Arkansas,"4,200","1,000",0.2381
+06,087,00277308,06087,Santa Cruz,Santa Cruz County,California,"4,500","100,650",22.3667
+13,191,00356886,13191,McIntosh,McIntosh County,Georgia,"1,000",0,0.0000
+29,069,00758489,29069,Dunklin,Dunklin County,Missouri,539,500,0.9276
+13,117,01673358,13117,Forsyth,Forsyth County,Georgia,"18,700","6,100",0.3262
+48,409,01383990,48409,San Patricio,San Patricio County,Texas,"2,000","1,000",0.5000
+26,073,01622979,26073,Isabella,Isabella County,Michigan,"2,750","5,000",1.8182
+48,341,01383956,48341,Moore,Moore County,Texas,"2,000",0,0.0000
+45,091,01248019,45091,York,York County,South Carolina,"12,200","58,115",4.7635
+18,001,00450401,18001,Adams,Adams County,Indiana,"2,000",0,0.0000
+22,005,00558403,22005,Ascension,Ascension Parish,Louisiana,"1,000","4,500",4.5000
+42,119,01213689,42119,Union,Union County,Pennsylvania,"5,500","1,500",0.2727
+51,041,01480111,51041,Chesterfield,Chesterfield County,Virginia,"24,100","43,100",1.7884
+22,001,00558389,22001,Acadia,Acadia Parish,Louisiana,"1,750",0,0.0000
+42,039,01213666,42039,Crawford,Crawford County,Pennsylvania,"1,000",0,0.0000
+46,123,01265784,46123,Tripp,Tripp County,South Dakota,500,"1,000",2.0000
+19,077,00465227,19077,Guthrie,Guthrie County,Iowa,0,"1,000",100.0000
+19,183,00465280,19183,Washington,Washington County,Iowa,0,"1,000",100.0000
+40,051,01101813,40051,Grady,Grady County,Oklahoma,"7,000","3,000",0.4286
+54,039,01550026,54039,Kanawha,Kanawha County,West Virginia,"8,750","17,150",1.9600
+55,109,01581833,55109,St. Croix,St. Croix County,Wisconsin,"7,250","1,000",0.1379
+39,153,01074088,39153,Summit,Summit County,Ohio,"10,966","16,700",1.5229
+13,127,01671513,13127,Glynn,Glynn County,Georgia,"19,896","4,500",0.2262
+48,479,01384025,48479,Webb,Webb County,Texas,"3,800","1,250",0.3289
+37,123,01008572,37123,Montgomery,Montgomery County,North Carolina,0,"8,400",100.0000
+23,003,00581287,23003,Aroostook,Aroostook County,Maine,0,500,100.0000
+18,175,00451665,18175,Washington,Washington County,Indiana,"1,523",0,0.0000
+48,031,01383801,48031,Blanco,Blanco County,Texas,0,"3,300",100.0000
+47,045,01639741,47045,Dyer,Dyer County,Tennessee,"1,000",0,0.0000
+47,053,01639745,47053,Gibson,Gibson County,Tennessee,0,"1,000",100.0000
+51,149,01480160,51149,Prince George,Prince George County,Virginia,"1,500",0,0.0000
+53,053,01529159,53053,Pierce,Pierce County,Washington,"51,618","83,939",1.6262
+42,071,01209181,42071,Lancaster,Lancaster County,Pennsylvania,"21,900","26,400",1.2055
+37,181,01008591,37181,Vance,Vance County,North Carolina,500,0,0.0000
+45,011,01247983,45011,Barnwell,Barnwell County,South Carolina,"1,000","5,600",5.6000
+01,055,00161553,01055,Etowah,Etowah County,Alabama,"1,500","5,000",3.3333
+20,155,00485041,20155,Reno,Reno County,Kansas,"6,100",0,0.0000
+47,119,01639772,47119,Maury,Maury County,Tennessee,"4,000","5,000",1.2500
+56,015,01605073,56015,Goshen,Goshen County,Wyoming,0,500,100.0000
+55,133,01581126,55133,Waukesha,Waukesha County,Wisconsin,"21,800","30,400",1.3945
+21,079,00516886,21079,Garrard,Garrard County,Kentucky,0,500,100.0000
+25,021,00606937,25021,Norfolk,Norfolk County,Massachusetts,"41,731","827,669",19.8334
+18,063,00450358,18063,Hendricks,Hendricks County,Indiana,"7,600","4,500",0.5921
+17,077,00424240,17077,Jackson,Jackson County,Illinois,500,"3,500",7.0000
+45,043,01248002,45043,Georgetown,Georgetown County,South Carolina,"9,500","42,450",4.4684
+49,045,01448036,49045,Tooele,Tooele County,Utah,0,"2,800",100.0000
+51,650,01498554,51650,Hampton,Hampton city,Virginia,"2,000","5,500",2.7500
+51,069,01480124,51069,Frederick,Frederick County,Virginia,"3,300","4,800",1.4545
+47,047,01639742,47047,Fayette,Fayette County,Tennessee,0,"4,300",100.0000
+22,089,01629449,22089,St. Charles,St. Charles Parish,Louisiana,"1,500","7,600",5.0667
+12,045,00306917,12045,Gulf,Gulf County,Florida,"4,000",0,0.0000
+47,063,01648576,47063,Hamblen,Hamblen County,Tennessee,"2,500","1,000",0.4000
+01,021,00161536,01021,Chilton,Chilton County,Alabama,"1,000",0,0.0000
+13,009,00345255,13009,Baldwin,Baldwin County,Georgia,0,"1,600",100.0000
+37,175,01008589,37175,Transylvania,Transylvania County,North Carolina,500,"7,300",14.6000
+37,171,01008587,37171,Surry,Surry County,North Carolina,500,500,1.0000
+01,031,00161541,01031,Coffee,Coffee County,Alabama,500,0,0.0000
+16,027,00399406,16027,Canyon,Canyon County,Idaho,"4,060",500,0.1232
+12,073,00306916,12073,Leon,Leon County,Florida,"8,000","94,565",11.8206
+40,119,01101847,40119,Payne,Payne County,Oklahoma,"2,000",0,0.0000
+18,093,00451703,18093,Lawrence,Lawrence County,Indiana,"1,525",750,0.4918
+21,207,00516950,21207,Russell,Russell County,Kentucky,"1,000",0,0.0000
+40,025,01101800,40025,Cimarron,Cimarron County,Oklahoma,"2,500",0,0.0000
+21,163,00516928,21163,Meade,Meade County,Kentucky,500,500,1.0000
+21,179,00516936,21179,Nelson,Nelson County,Kentucky,500,0,0.0000
+29,155,00758532,29155,Pemiscot,Pemiscot County,Missouri,500,0,0.0000
+55,078,01581099,55078,Menominee,Menominee County,Wisconsin,"1,500",0,0.0000
+51,033,01480107,51033,Caroline,Caroline County,Virginia,"1,200",500,0.4167
+19,167,00465272,19167,Sioux,Sioux County,Iowa,500,"1,000",2.0000
+06,021,00277275,06021,Glenn,Glenn County,California,500,0,0.0000
+29,510,00767557,29510,St. Louis,St. Louis city,Missouri,"1,000","88,294",88.2940
+13,111,00351094,13111,Fannin,Fannin County,Georgia,"2,000",500,0.2500
+53,067,01529226,53067,Thurston,Thurston County,Washington,"31,700","47,485",1.4979
+31,107,00835875,31107,Knox,Knox County,Nebraska,"1,000",0,0.0000
+35,061,00933052,35061,Valencia,Valencia County,New Mexico,"3,100","3,400",1.0968
+48,061,01383816,48061,Cameron,Cameron County,Texas,"2,000","21,151",10.5755
+48,339,01383955,48339,Montgomery,Montgomery County,Texas,"69,830","54,600",0.7819
+08,071,00198151,08071,Las Animas,Las Animas County,Colorado,0,500,100.0000
+48,299,01383935,48299,Llano,Llano County,Texas,0,500,100.0000
+37,043,01008546,37043,Clay,Clay County,North Carolina,0,500,100.0000
+36,071,00974134,36071,Orange,Orange County,New York,"9,550","15,950",1.6702
+36,093,00974144,36093,Schenectady,Schenectady County,New York,"8,513","12,800",1.5036
+54,059,01550036,54059,Mingo,Mingo County,West Virginia,0,"3,800",100.0000
+25,023,00606938,25023,Plymouth,Plymouth County,Massachusetts,"34,663","168,888",4.8723
+36,005,00974101,36005,Bronx,Bronx County,New York,"1,500","68,300",45.5333
+37,055,01026133,37055,Dare,Dare County,North Carolina,"4,000","3,250",0.8125
+39,103,01074064,39103,Medina,Medina County,Ohio,"4,800","2,000",0.4167
+42,005,01213658,42005,Armstrong,Armstrong County,Pennsylvania,500,"3,000",6.0000
+34,001,00882270,34001,Atlantic,Atlantic County,New Jersey,"5,500","29,100",5.2909
+55,071,01581095,55071,Manitowoc,Manitowoc County,Wisconsin,500,500,1.0000
+55,029,01581074,55029,Door,Door County,Wisconsin,"1,880","1,700",0.9043
+37,047,01026339,37047,Columbus,Columbus County,North Carolina,0,"2,000",100.0000
+48,441,01384006,48441,Taylor,Taylor County,Texas,"11,800","3,600",0.3051
+08,049,00198140,08049,Grand,Grand County,Colorado,500,500,1.0000
+48,249,01383910,48249,Jim Wells,Jim Wells County,Texas,"1,500",0,0.0000
+06,079,00277304,06079,San Luis Obispo,San Luis Obispo County,California,"19,160","39,000",2.0355
+13,177,00343390,13177,Lee,Lee County,Georgia,500,"1,000",2.0000
+21,019,00516856,21019,Boyd,Boyd County,Kentucky,"2,599","2,000",0.7695
+27,019,00659455,27019,Carver,Carver County,Minnesota,"3,000","7,500",2.5000
+47,101,01639765,47101,Lewis,Lewis County,Tennessee,500,0,0.0000
+41,067,01155137,41067,Washington,Washington County,Oregon,"15,200","81,193",5.3416
+51,810,01498559,51810,Virginia Beach,Virginia Beach city,Virginia,"12,050","52,574",4.3630
+30,057,01720033,30057,Madison,Madison County,Montana,0,"1,500",100.0000
+51,103,01480139,51103,Lancaster,Lancaster County,Virginia,"2,500","3,500",1.4000
+33,001,00873174,33001,Belknap,Belknap County,New Hampshire,"3,500","6,500",1.8571
+02,230,02339479,02230,Skagway,Skagway Municipality,Alaska,0,"2,000",100.0000
+53,021,01531822,53021,Franklin,Franklin County,Washington,"4,500","1,700",0.3778
+20,173,00485049,20173,Sedgwick,Sedgwick County,Kansas,"21,700","6,132",0.2826
+48,453,01384012,48453,Travis,Travis County,Texas,"153,779","588,215",3.8251
+12,057,00295757,12057,Hillsborough,Hillsborough County,Florida,"72,217","274,284",3.7981
+34,021,00882229,34021,Mercer,Mercer County,New Jersey,"2,500","208,122",83.2488
+42,129,01209191,42129,Westmoreland,Westmoreland County,Pennsylvania,"8,325","21,050",2.5285
+12,015,00295742,12015,Charlotte,Charlotte County,Florida,"20,850","19,100",0.9161
+19,029,00465204,19029,Cass,Cass County,Iowa,0,"1,500",100.0000
+39,107,01074066,39107,Mercer,Mercer County,Ohio,"1,000",0,0.0000
+44,003,01219778,44003,Kent,Kent County,Rhode Island,"4,080","13,100",3.2108
+50,025,01461769,50025,Windham,Windham County,Vermont,500,"3,000",6.0000
+50,019,01461766,50019,Orleans,Orleans County,Vermont,0,"10,400",100.0000
+20,085,00485007,20085,Jackson,Jackson County,Kansas,"1,000",0,0.0000
+25,011,00606932,25011,Franklin,Franklin County,Massachusetts,0,"18,375",100.0000
+29,143,00758526,29143,New Madrid,New Madrid County,Missouri,0,"3,022",100.0000
+29,029,00758469,29029,Camden,Camden County,Missouri,"1,500",0,0.0000
+51,117,01500747,51117,Mecklenburg,Mecklenburg County,Virginia,0,"1,500",100.0000
+21,233,00516963,21233,Webster,Webster County,Kentucky,"1,000",0,0.0000
+40,047,01101811,40047,Garfield,Garfield County,Oklahoma,500,500,1.0000
+53,059,01529220,53059,Skamania,Skamania County,Washington,"5,800","3,300",0.5690
+26,091,01622988,26091,Lenawee,Lenawee County,Michigan,"3,000","4,750",1.5833
+13,123,00351260,13123,Gilmer,Gilmer County,Georgia,"1,000",0,0.0000
+27,135,00659513,27135,Roseau,Roseau County,Minnesota,0,"2,000",100.0000
+28,089,00695768,28089,Madison,Madison County,Mississippi,"6,600","8,800",1.3333
+48,227,01383899,48227,Howard,Howard County,Texas,"1,000",0,0.0000
